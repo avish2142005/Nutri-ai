@@ -1,0 +1,97 @@
+services:
+  # Backend API Service
+  backend:
+    build: ./backend
+    container_name: nutrition-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./backend:/app
+    depends_on:
+      redis:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+
+    # Health check
+    healthcheck:
+      test: ["CMD", "python", "-c", "import fastapi; print('OK')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Redis for caching and real-time state
+  redis:
+    image: redis:7-alpine
+    container_name: nutrition-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    command: ["redis-server --appendonly yes"]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  # PostgreSQL for users, auth, goals, structured logs
+  postgres:
+    image: postgres:15
+    container_name: nutrition-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: nutrition
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # MongoDB for food database, flexible meal/food docs
+  mongo:
+    image: mongo:7
+    container_name: nutrition-mongo
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: pass
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.runCommand('ping')", "--username", "admin", "--password", "pass"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  # Frontend (Next.js)
+  frontend:
+    build: ./frontend
+    container_name: nutrition-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+      - "3001:3001"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://backend:8000
+      - NODE_ENV=production
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    depends_on:
+      backend:
+        condition: service_healthy
+
+volumes:
+  pgdata:
+  mongo-data:

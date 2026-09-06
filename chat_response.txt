@@ -1,0 +1,10 @@
+Status: 200
+Response: **Chicken Breast — Nutritional Profile**
+
+Per standard serving: **165 calories** | Protein: 31g | Carbs: 0g | Fat: 3.6g | Fiber: 0g
+
+🌍 **Carbon footprint:** 6.9 kg CO₂ per 100g — 🔴 High impact
+
+💬 Want a meal plan featuring Chicken Breast, or details on a specific nutrient?
+Model: NutriAI Smart
+Suggestions: ['Best way to cook Chicken Breast?', 'Meal plan featuring Chicken Breast', 'Carbon footprint of Chicken Breast', 'Alternatives to Chicken Breast']

@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+psycopg2-binary
+pymongo
+redis
+langchain
+python-dotenv
+peft
+torch
+transformers
+sentence-transformers
+numpy

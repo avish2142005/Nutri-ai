@@ -1,0 +1,13 @@
+Status: 200
+Response: 📊 **Calorie Guidance**
+
+Daily calorie needs depend on your age, weight, height, and activity level:
+- **Sedentary (desk job):** ~2,000–2,200 kcal
+- **Moderately active:** ~2,200–2,600 kcal  
+- **Very active / athlete:** ~2,600–3,200+ kcal
+
+For **weight loss**, aim for a 300–500 kcal deficit. For **muscle gain**, a 200–300 kcal surplus with high protein.
+
+Ask me about calories for a specific food, or let me help plan your daily meals!
+Model: NutriAI Smart
+Suggestions: ['How to count calories?', 'Low calorie meal ideas', 'Calorie deficit for weight loss']

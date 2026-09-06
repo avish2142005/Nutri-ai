@@ -1,0 +1,19 @@
+Status: 200
+Response: 🌍 **Carbon Footprint of Your Diet**
+
+The food system accounts for ~26% of global greenhouse gas emissions. Here's a quick guide:
+
+| Food Category | CO₂ per 100g |
+|---|---|
+| 🔴 Beef | 27 kg |
+| 🔴 Lamb | 25 kg |
+| 🟡 Chicken | 6.9 kg |
+| 🟡 Salmon | 6 kg |
+| 🟢 Lentils | 0.9 kg |
+| 🟢 Vegetables | 0.3–0.7 kg |
+
+**Biggest wins:** Reduce beef, increase legumes (lentils/beans), choose local seasonal produce.
+
+💡 Ask me to calculate the footprint of any specific meal!
+Model: NutriAI Smart
+Suggestions: ['Most eco-friendly foods', 'Plant-based meal plan', 'How to reduce diet carbon footprint']

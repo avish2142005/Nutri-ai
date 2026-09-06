@@ -1,0 +1,21 @@
+Status: 200
+Response: 👋 **Welcome to NutriAI!**
+
+I'm your personal AI nutrition analyst. I can help you with:
+
+🥗 **Nutrition Analysis** — calories, macros, micros for any food
+🌍 **Carbon Footprint** — environmental impact of your meals  
+💪 **Goal Planning** — weight loss, muscle gain, energy optimization
+🗓️ **Meal Planning** — personalized daily meal plans
+🔬 **Science-backed advice** — evidence-based dietary guidance
+
+**Try asking:**
+- "How many calories in grilled chicken breast?"
+- "What's the protein content of Greek yogurt?"
+- "Create a high-protein meal plan for muscle gain"
+- "What's the carbon footprint of my beef dinner?"
+- "Am I eating enough fiber?"
+
+What would you like to know about your nutrition today?
+Model: NutriAI Smart
+Suggestions: ['What are macros?', 'Create a meal plan for me', 'Best foods for weight loss', 'High protein meal ideas']

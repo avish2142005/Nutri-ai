@@ -1,0 +1,18 @@
+Status: 200
+Response: 💪 **Protein Fundamentals**
+
+Protein is essential for muscle repair, immune function, and satiety.
+
+**Top high-protein foods per 100g:**
+- Tuna: 34g protein
+- Chicken breast: 31g protein  
+- Greek yogurt: 17g protein
+- Lentils: 18g protein
+- Tofu: 15g protein
+- Eggs: 13g protein
+
+**Daily target:** 1.6–2.2g per kg bodyweight for muscle building, 0.8–1.2g for general health.
+
+Which high-protein foods would you like more info on?
+Model: NutriAI Smart
+Suggestions: ['High protein breakfast ideas', 'Best plant-based proteins', 'How much protein do I need?']
