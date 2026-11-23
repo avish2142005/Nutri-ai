@@ -504,5 +504,47 @@ farmai\backend\.venv\Scripts\python.exe -m pytest farmai/backend/tests
 
 ---
 
+## 13. Production Deployment Guide
+
+KrishiNetra is engineered for high-availability enterprise production deployments.
+
+### Option A: 1-Command Docker Deployment (Recommended)
+
+Build and launch the full multi-stage production container:
+
+```bash
+# Build and run with Docker Compose
+docker compose up -d --build
+
+# Inspect container health
+docker compose ps
+docker compose logs -f
+```
+The application will be live at `http://localhost:8000/` serving both the React/Vite SPA and FastAPI backend with health monitoring.
+
+---
+
+### Option B: Local 1-Click Production Launchers
+
+* **Windows**:
+  Double-click `start_production.bat` or run in terminal:
+  ```cmd
+  start_production.bat
+  ```
+* **Linux / macOS**:
+  ```bash
+  chmod +x start_production.sh
+  ./start_production.sh
+  ```
+
+---
+
+### Option C: Cloud PaaS (Render, Railway, Hugging Face Spaces)
+
+* **Render / Railway**: KrishiNetra includes `render.yaml` and `Procfile`. Connect your GitHub repository to Render and it will automatically execute the build and start commands.
+* **Environment Variables**: Configure the production variables as outlined in `.env.example`.
+
+---
+
 ## License & Standards
 Aligned with **ICAR (Indian Council of Agricultural Research)** and **KVK (Krishi Vigyan Kendra)** Integrated Pest Management guidelines. Built for sustainable and precision agriculture.

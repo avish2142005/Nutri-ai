@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: krishinetra
+    runtime: python
+    buildCommand: |
+      pip install -r farmai/backend/requirements.txt
+      cd farmai/frontend && npm ci && npm run build && cd ../..
+    startCommand: cd farmai/backend && uvicorn main:app --host 0.0.0.0 --port $PORT --workers 2
+    envVars:
+      - key: ENV
+        value: production
+      - key: DEMO_MODE
+        value: false
+      - key: CORS_ORIGINS
+        value: "*"
