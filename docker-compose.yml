@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  krishinetra:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: krishinetra_production
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      - ENV=production
+      - HOST=0.0.0.0
+      - PORT=8000
+      - DEMO_MODE=false
+      - DATABASE_URL=sqlite:///./farmai.db
+      - CORS_ORIGINS=*
+    volumes:
+      - krishinetra_data:/app/farmai/backend/data
+      - ./models/weights:/app/models/weights:ro
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 15s
+
+volumes:
+  krishinetra_data:

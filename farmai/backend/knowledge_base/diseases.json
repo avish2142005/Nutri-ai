@@ -1,0 +1,1864 @@
+{
+  "tomato_early_blight": {
+    "id": "tomato_early_blight",
+    "crop": "Tomato",
+    "display_name": "Early Blight",
+    "raw_class": "Tomato___Early_blight",
+    "is_healthy": false,
+    "severity_weight": 0.75,
+    "favourable_temp_range": [
+      24.0,
+      30.0
+    ],
+    "favourable_humidity_min": 75.0,
+    "symptoms": [
+      "Dark brown to black spots with concentric rings (target-like pattern) on older lower leaves.",
+      "Yellowing (chlorosis) halo surrounding leaf lesions.",
+      "Premature defoliation starting from the bottom of the canopy upward.",
+      "Sunken, dark leathery lesions at the stem end of fruits."
+    ],
+    "cause": "Fungal pathogen Alternaria solani surviving on crop residue and solanaceous weeds.",
+    "cultural_controls": [
+      "Prune and safely dispose of infected lower leaves at first sight; do not compost.",
+      "Mulch soil with clean straw or plastic to prevent soil splash onto lower foliage.",
+      "Implement a 3-year crop rotation with non-solanaceous crops (e.g., legumes or cereals)."
+    ],
+    "biological_controls": [
+      "Apply bio-control agents such as Trichoderma viride or Trichoderma harzianum to soil/foliage.",
+      "Foliar spray of Bacillus subtilis bio-formulations during early disease onset.",
+      "Spray 5% Neem Seed Kernel Extract (NSKE) as an organic antifungal repellent."
+    ],
+    "monitoring": [
+      "Scout lower leaves twice weekly during warm, humid weather.",
+      "Inspect leaf undersides for concentric ring lesions after rain events."
+    ],
+    "water_management": [
+      "Switch to drip irrigation to keep foliage completely dry.",
+      "Avoid overhead sprinkler irrigation and avoid field operations while foliage is wet."
+    ],
+    "chemical_advisory": "If threshold (>5% lower canopy defoliation) is reached, standard protective contact fungicides (e.g., copper-based formulations or mancozeb) may be evaluated. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Use certified disease-free seeds and resistant or tolerant tomato varieties.",
+      "Ensure adequate plant spacing (60 cm x 45 cm) for canopy ventilation."
+    ],
+    "source_note": "ICAR-Indian Institute of Horticultural Research (IIHR) Tomato IPM Extension Guidelines & TNAU Agritech Portal."
+  },
+  "tomato_late_blight": {
+    "id": "tomato_late_blight",
+    "crop": "Tomato",
+    "display_name": "Late Blight",
+    "raw_class": "Tomato___Late_blight",
+    "is_healthy": false,
+    "severity_weight": 0.95,
+    "favourable_temp_range": [
+      15.0,
+      22.0
+    ],
+    "favourable_humidity_min": 85.0,
+    "symptoms": [
+      "Large, irregular water-soaked pale-to-brown lesions on leaves and stems.",
+      "White fungal-like fuzzy growth on the underside of leaves during cool, humid mornings.",
+      "Rapidly browning and collapsing foliage; field appears frost-damaged.",
+      "Firm, dark brown greasy lesions expanding across green or ripening fruit."
+    ],
+    "cause": "Oomycete pathogen Phytophthora infestans.",
+    "cultural_controls": [
+      "Immediately rogue out and destroy severely blighted plants outside the field boundary.",
+      "Eliminate volunteer tomato and potato plants from surrounding bunds and ditches.",
+      "Promote air movement across rows by staking and pruning side shoots."
+    ],
+    "biological_controls": [
+      "Preventive foliar application of bio-agents like Pseudomonas fluorescens (10g/L).",
+      "Trichoderma harzianum soil enrichment to suppress overwintering oospores."
+    ],
+    "monitoring": [
+      "Daily inspection of leaf undersides and stems during foggy, overcast, or continuous rainy periods.",
+      "Monitor local late-blight forecast alerts issued by regional agromet advisories."
+    ],
+    "water_management": [
+      "Ensure rapid surface water drainage and avoid standing water in furrows.",
+      "Strictly refrain from overhead irrigation to curtail leaf wetness duration."
+    ],
+    "chemical_advisory": "Late blight progresses destructively within 48 hours. Preventive contact or systemic fungicides (e.g., copper oxychloride, metalaxyl-mancozeb combinations) are recommended under persistent cold-wet conditions. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Plant certified resistant hybrids and maintain strict sanitation.",
+      "Avoid planting tomato immediately adjacent to potato crops."
+    ],
+    "source_note": "CPRI Shimla & ICAR Extension Bulletin on Solanaceous Late Blight Management."
+  },
+  "tomato_leaf_mold": {
+    "id": "tomato_leaf_mold",
+    "crop": "Tomato",
+    "display_name": "Leaf Mold",
+    "raw_class": "Tomato___Leaf_Mold",
+    "is_healthy": false,
+    "severity_weight": 0.6,
+    "favourable_temp_range": [
+      20.0,
+      26.0
+    ],
+    "favourable_humidity_min": 80.0,
+    "symptoms": [
+      "Pale green to yellowish patches on upper leaf surfaces.",
+      "Olive-green to grayish velvety fungal mold growth on corresponding lower leaf surfaces.",
+      "Infected leaves wither, turn brown, and drop prematurely."
+    ],
+    "cause": "Fungus Passalora fulva (syn. Cladosporium fulvum).",
+    "cultural_controls": [
+      "Ventilate polyhouses or dense canopies to lower ambient relative humidity.",
+      "Prune lower suckers and dense foliage to facilitate natural air circulation.",
+      "Disinfect support trellises and stakes before every planting cycle."
+    ],
+    "biological_controls": [
+      "Foliar spray with Ampelomyces quisqualis or Bacillus amyloliquefaciens.",
+      "Application of fermented organic bio-wash or cow urine solution (1:10 dilution)."
+    ],
+    "monitoring": [
+      "Inspect lower and middle foliage undersides weekly.",
+      "Monitor relative humidity levels inside the canopy using an aspirating psychrometer or hygrometer."
+    ],
+    "water_management": [
+      "Irrigate only at soil level in early morning so humidity does not spike overnight.",
+      "Maintain raised beds to prevent excessive soil moisture accumulation."
+    ],
+    "chemical_advisory": "If fungal mold exceeds 10% canopy coverage, protective copper or sulfur-based sprays may be used where humidity cannot be controlled. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Select resistant varieties with Cf resistance genes.",
+      "Avoid over-fertilization with nitrogen, which produces excessively dense foliage."
+    ],
+    "source_note": "University Extension IPM Database & ICAR-IIHR Tomato Disease Management."
+  },
+  "tomato_septoria_leaf_spot": {
+    "id": "tomato_septoria_leaf_spot",
+    "crop": "Tomato",
+    "display_name": "Septoria Leaf Spot",
+    "raw_class": "Tomato___Septoria_leaf_spot",
+    "is_healthy": false,
+    "severity_weight": 0.7,
+    "favourable_temp_range": [
+      20.0,
+      27.0
+    ],
+    "favourable_humidity_min": 75.0,
+    "symptoms": [
+      "Numerous small (2-3 mm) circular spots with dark brown margins and gray or tan centers.",
+      "Tiny black pinhead-like pycnidia specks visible inside lesion centers.",
+      "Progressive yellowing and dropping of lower leaves, exposing fruit to sunscald."
+    ],
+    "cause": "Fungus Septoria lycopersici.",
+    "cultural_controls": [
+      "Strip and safely dispose of infected foliage below the lowest fruit cluster.",
+      "Apply clean straw mulch to keep rain from splashing fungal spores from the soil.",
+      "Deeply plow under crop residues immediately after final harvest."
+    ],
+    "biological_controls": [
+      "Foliar application of Trichoderma viride formulation at 5g/L.",
+      "Neem seed kernel extract (5%) spray at the first appearance of leaf spots."
+    ],
+    "monitoring": [
+      "Carefully inspect the bottom 30 cm of foliage weekly after rain or heavy dew.",
+      "Check for black fruiting bodies in spots using a hand lens."
+    ],
+    "water_management": [
+      "Always use drip irrigation; avoid splash-generating overhead irrigation.",
+      "Water crops early in the morning so incidental wetting dries quickly."
+    ],
+    "chemical_advisory": "Fungicide options such as chlorothalonil or copper hydroxide can prevent secondary spread if applied early. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Rotate with non-solanaceous crops for at least 2 seasons.",
+      "Maintain clean borders free from solanaceous nightshade weeds."
+    ],
+    "source_note": "FAO Plant Production and Protection Series & TNAU Expert System for Tomato."
+  },
+  "tomato_bacterial_spot": {
+    "id": "tomato_bacterial_spot",
+    "crop": "Tomato",
+    "display_name": "Bacterial Spot",
+    "raw_class": "Tomato___Bacterial_spot",
+    "is_healthy": false,
+    "severity_weight": 0.8,
+    "favourable_temp_range": [
+      25.0,
+      32.0
+    ],
+    "favourable_humidity_min": 80.0,
+    "symptoms": [
+      "Small, dark, greasy or water-soaked circular spots on leaves.",
+      "Spots turn purplish-brown with yellow halos and ragged margins.",
+      "Crabby, blister-like raised scabby spots on green fruits.",
+      "Extensive leaf blighting and blossom drop during warm rainy weather."
+    ],
+    "cause": "Bacterium Xanthomonas perforans / Xanthomonas euvesicatoria.",
+    "cultural_controls": [
+      "Never work in wet tomato fields; human handling spreads bacterial ooze rapidly.",
+      "Remove severely infected plants and safely incinerate or deep-bury them.",
+      "Disinfect all pruning shears, stakes, and crates with 10% bleach solution."
+    ],
+    "biological_controls": [
+      "Bacteriophage treatments targeting Xanthomonas where commercially accessible.",
+      "Seed treatment and root dip with Pseudomonas fluorescens bio-agent."
+    ],
+    "monitoring": [
+      "Regularly inspect leaves and fruits for greasy water-soaked spots after rainstorms.",
+      "Examine nursery seedlings before field transplanting."
+    ],
+    "water_management": [
+      "Eliminate overhead watering and shield seedlings from heavy rain splash.",
+      "Improve drainage ditches to prevent standing water near root zones."
+    ],
+    "chemical_advisory": "Copper hydroxide mixed with mancozeb offers preventive suppression. Streptomycin sulfate sprays may be advised under specific agricultural extension supervision. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Use certified disease-free, hot-water-treated seed (50\u00b0C for 25 minutes).",
+      "Do not save seeds from infected fields."
+    ],
+    "source_note": "University of Florida IFAS Extension & ICAR Bacterial Disease Protocol."
+  },
+  "tomato_target_spot": {
+    "id": "tomato_target_spot",
+    "crop": "Tomato",
+    "display_name": "Target Spot",
+    "raw_class": "Tomato___Target_Spot",
+    "is_healthy": false,
+    "severity_weight": 0.7,
+    "favourable_temp_range": [
+      24.0,
+      32.0
+    ],
+    "favourable_humidity_min": 80.0,
+    "symptoms": [
+      "Pinpoint brown spots expanding into circular lesions with light brown centers.",
+      "Dark concentric rings resembling target boards on leaves and stems.",
+      "Severe premature defoliation in lower and middle canopies.",
+      "Deep, sunken brown crater-like rot on ripening fruit."
+    ],
+    "cause": "Fungus Corynespora casiicola.",
+    "cultural_controls": [
+      "Prune the lower suckers and bottom leaves to prevent ground contact.",
+      "Provide sturdy stakes and trellising to lift plant foliage off the soil.",
+      "Destroy infected crop residues after harvest to interrupt fungal life cycles."
+    ],
+    "biological_controls": [
+      "Foliar spray with bio-fungicides based on Bacillus subtilis or Trichoderma species.",
+      "Neem cake soil amendment at transplanting to enhance plant resilience."
+    ],
+    "monitoring": [
+      "Inspect inner lower canopy where humidity lingers longest.",
+      "Check green fruits for small circular depressions."
+    ],
+    "water_management": [
+      "Drip irrigation only; avoid high-pressure hose spraying.",
+      "Maintain wide row spacing to allow sunlight penetration and leaf drying."
+    ],
+    "chemical_advisory": "Broad-spectrum protective fungicides (e.g., azoxystrobin or mancozeb) can be applied preventively during prolonged warm-humid periods. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Maintain a 3-year rotation away from cucurbit, solanaceous, and legume hosts.",
+      "Use pathogen-tested seeds and clean nursery potting mix."
+    ],
+    "source_note": "CABI Invasive Species Compendium & ICAR Plant Pathology Advisory."
+  },
+  "tomato_yellow_leaf_curl_virus": {
+    "id": "tomato_yellow_leaf_curl_virus",
+    "crop": "Tomato",
+    "display_name": "Yellow Leaf Curl Virus",
+    "raw_class": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "is_healthy": false,
+    "severity_weight": 0.85,
+    "favourable_temp_range": [
+      26.0,
+      38.0
+    ],
+    "favourable_humidity_min": 40.0,
+    "symptoms": [
+      "Severe upward cupping, rolling, and reduction in leaf size.",
+      "Interveinal yellowing (chlorosis) and pale green young foliage.",
+      "Marked plant stunting with a bushy, erect 'bonsai' appearance.",
+      "Flower abortion and failure to set marketable fruit."
+    ],
+    "cause": "Tomato Yellow Leaf Curl Virus (TYLCV), transmitted by whitefly (Bemisia tabaci).",
+    "cultural_controls": [
+      "Erect yellow sticky traps (15-20 traps per acre) to monitor and mass-trap adult whiteflies.",
+      "Install 40-50 mesh insect-proof netting over seedling nursery beds.",
+      "Rogue out and destroy infected viral plants immediately to prevent whitefly acquisition."
+    ],
+    "biological_controls": [
+      "Conserve or release natural predators such as Chrysoperla carnea (green lacewing) and ladybird beetles.",
+      "Foliar spray of entomopathogenic fungus Beauveria bassiana or Lecanicillium lecanii (5g/L).",
+      "Spray 5% neem seed kernel extract or 1% horticultural mineral oil to repel whitefly vectors."
+    ],
+    "monitoring": [
+      "Inspect under surfaces of young leaves daily for tiny whitefly adults and nymphs.",
+      "Check yellow sticky trap counts every 48 hours."
+    ],
+    "water_management": [
+      "Ensure balanced soil moisture to avoid water-stress which aggravates whitefly attacks.",
+      "Avoid excess nitrogen fertilizer, which attracts succulent-feeding whitefly populations."
+    ],
+    "chemical_advisory": "Viruses cannot be cured with chemical sprays; chemical intervention focuses strictly on vector management. Systemic insecticides (e.g., imidacloprid, thiamethoxam, or cyantraniliprole) may be recommended for vector suppression during early nursery stages. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Grow TYLCV-resistant or tolerant hybrids (e.g., US 440, NS 501, etc.).",
+      "Grow 3 border rows of tall non-host barrier crops like maize, sorghum, or pearl millet."
+    ],
+    "source_note": "World Vegetable Center (AVRDC) & ICAR Whitefly Management Technical Bulletin."
+  },
+  "tomato_mosaic_virus": {
+    "id": "tomato_mosaic_virus",
+    "crop": "Tomato",
+    "display_name": "Mosaic Virus",
+    "raw_class": "Tomato___Tomato_mosaic_virus",
+    "is_healthy": false,
+    "severity_weight": 0.8,
+    "favourable_temp_range": [
+      22.0,
+      30.0
+    ],
+    "favourable_humidity_min": 50.0,
+    "symptoms": [
+      "Mottling of light and dark green patterns on leaves (mosaic pattern).",
+      "Distortion, blistering, and stringy 'shoestring' narrowing of leaflets.",
+      "Stunted growth and poor overall canopy vigor.",
+      "Brown internal browning and uneven ripening of fruits."
+    ],
+    "cause": "Tomato Mosaic Virus (ToMV), mechanically transmitted through sap, hands, tools, and seeds.",
+    "cultural_controls": [
+      "Workers must wash hands with soap and water or 20% skimmed milk before touching plants.",
+      "Strictly prohibit tobacco smoking or chewing near tomato fields (tobacco carries virus strains).",
+      "Rogue and safely bag infected plants without letting them brush against adjacent healthy crops."
+    ],
+    "biological_controls": [
+      "Treat seeds with trisodium phosphate (10% TSP) solution or heat therapy prior to sowing.",
+      "Soil application of beneficial mycorrhizae and Pseudomonas to enhance plant vigor."
+    ],
+    "monitoring": [
+      "Scout young transplants 14 to 21 days after field planting for mosaic mottling.",
+      "Inspect foliage whenever pruning or trellising is performed."
+    ],
+    "water_management": [
+      "Use automated drip systems to minimize physical movement of workers through wet fields."
+    ],
+    "chemical_advisory": "No chemical fungicides or viricides are effective against plant viruses. Chemical control is strictly restricted to vector control if aphids or thrips are present. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Plant certified ToMV-resistant tomato cultivars.",
+      "Sterilize all cutting tools, stakes, and trays with 10% trisodium phosphate or bleach."
+    ],
+    "source_note": "EPPO Global Database & ICAR Virus Disease Advisory."
+  },
+  "tomato_healthy": {
+    "id": "tomato_healthy",
+    "crop": "Tomato",
+    "display_name": "Healthy Tomato",
+    "raw_class": "Tomato___healthy",
+    "is_healthy": true,
+    "severity_weight": 0.0,
+    "favourable_temp_range": [
+      20.0,
+      30.0
+    ],
+    "favourable_humidity_min": 50.0,
+    "symptoms": [
+      "Vibrant green leaves with uniform coloration and no necrotic spots or chlorosis.",
+      "Firm, well-developed stems and robust growing tips.",
+      "Normal flower cluster development and healthy fruit set."
+    ],
+    "cause": "No pathogen detected; optimal crop physiological condition.",
+    "cultural_controls": [
+      "Continue standard good agricultural practices (GAP).",
+      "Maintain routine weeding and mulching around base stems.",
+      "Ensure proper plant staking and ventilation."
+    ],
+    "biological_controls": [
+      "Routine preventive soil drench or root application with Trichoderma and biofertilizers.",
+      "Maintain flowering border crops (marigold, mustard) to encourage predatory insects."
+    ],
+    "monitoring": [
+      "Maintain bi-weekly routine crop scouting for early detection of pests or blight.",
+      "Monitor soil moisture levels and local weather forecasts."
+    ],
+    "water_management": [
+      "Continue regulated drip irrigation based on crop evapotranspiration needs.",
+      "Keep soil evenly moist, avoiding sudden cycles of extreme drought and over-watering."
+    ],
+    "chemical_advisory": "No chemical fungicides or pesticides are necessary. Maintain preventive bio-immunization. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Maintain balanced N-P-K and micronutrient (calcium, boron) supply.",
+      "Keep field borders clean of weeds."
+    ],
+    "source_note": "Good Agricultural Practices (GAP) for Tomato, FAO & ICAR."
+  },
+  "potato_early_blight": {
+    "id": "potato_early_blight",
+    "crop": "Potato",
+    "display_name": "Early Blight",
+    "raw_class": "Potato___Early_blight",
+    "is_healthy": false,
+    "severity_weight": 0.7,
+    "favourable_temp_range": [
+      22.0,
+      30.0
+    ],
+    "favourable_humidity_min": 75.0,
+    "symptoms": [
+      "Small dark brown to black spots with concentric rings on older bottom leaves.",
+      "Leaf tissue between veins turns yellow and dies, causing premature vine senescence.",
+      "Brown corky dry rot in potato tubers with sunken margins."
+    ],
+    "cause": "Fungus Alternaria solani.",
+    "cultural_controls": [
+      "Remove volunteer potato sprouts and bury infected haulms after dehaulming.",
+      "Adopt a minimum 3-year rotation excluding tomato, pepper, and eggplant.",
+      "Maintain adequate potassium and nitrogen fertility to delay crop senescence."
+    ],
+    "biological_controls": [
+      "Foliar application of Trichoderma viride or Bacillus subtilis.",
+      "Neem seed kernel extract (5%) spray during early crop stages."
+    ],
+    "monitoring": [
+      "Inspect lower leaves starting 45 days after emergence.",
+      "Scout following periods of alternating dew and warm dry days."
+    ],
+    "water_management": [
+      "Irrigate during early morning so vines dry before evening.",
+      "Maintain uniform furrow or sprinkler irrigation to avoid plant stress."
+    ],
+    "chemical_advisory": "Contact protective fungicides like mancozeb or chlorothalonil may be applied at early bloom if leaf spots exceed economic threshold. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Use certified disease-free seed tubers.",
+      "Ensure proper earthing up to protect tubers from spore wash."
+    ],
+    "source_note": "ICAR-Central Potato Research Institute (CPRI) Shimla IPM Package."
+  },
+  "potato_late_blight": {
+    "id": "potato_late_blight",
+    "crop": "Potato",
+    "display_name": "Late Blight",
+    "raw_class": "Potato___Late_blight",
+    "is_healthy": false,
+    "severity_weight": 0.95,
+    "favourable_temp_range": [
+      12.0,
+      20.0
+    ],
+    "favourable_humidity_min": 85.0,
+    "symptoms": [
+      "Water-soaked dark brownish-purple patches on leaves and petioles.",
+      "Delicate white fungal down on the lower surface of leaves under wet conditions.",
+      "Stem lesions causing entire vines to collapse within days.",
+      "Reddish-brown granular dry rot spreading inward beneath tuber skin."
+    ],
+    "cause": "Oomycete pathogen Phytophthora infestans.",
+    "cultural_controls": [
+      "Perform haulm destruction (dehaulming) 10-12 days prior to harvest to safeguard tubers.",
+      "Rogue out and bury seed-tuber cull piles before the cropping season starts.",
+      "Earth up potato ridges deeply (15-20 cm) to create a soil buffer preventing spore wash to tubers."
+    ],
+    "biological_controls": [
+      "Prophylactic foliar spray of Pseudomonas fluorescens (10g/L).",
+      "Bio-control formulation of Trichoderma harzianum applied at ridge planting."
+    ],
+    "monitoring": [
+      "Track daily late blight decision support system (CPRI JHULSACAST or regional agromet bulletins).",
+      "Inspect low-lying, shaded areas of the field daily during overcast, wet spells."
+    ],
+    "water_management": [
+      "Do not irrigate if rain is forecasted or when relative humidity remains above 85%.",
+      "Facilitate rapid furrow drainage."
+    ],
+    "chemical_advisory": "Prophylactic spray of mancozeb before disease appearance, followed by systemic mixtures (e.g. cymoxanil+mancozeb, dimethomorph, or metalaxyl) upon disease appearance. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Plant blight-resistant varieties (e.g., Kufri Girdhari, Kufri Himalini, Kufri Jyoti).",
+      "Use only certified disease-free seed tubers."
+    ],
+    "source_note": "CPRI Shimla Technical Bulletin on Potato Late Blight Management."
+  },
+  "potato_healthy": {
+    "id": "potato_healthy",
+    "crop": "Potato",
+    "display_name": "Healthy Potato",
+    "raw_class": "Potato___healthy",
+    "is_healthy": true,
+    "severity_weight": 0.0,
+    "favourable_temp_range": [
+      15.0,
+      25.0
+    ],
+    "favourable_humidity_min": 60.0,
+    "symptoms": [
+      "Vigorous green foliage with even leaf expansion.",
+      "Clean stems free of brown necrosis or water-soaking.",
+      "Normal flowering and healthy underground tuberization."
+    ],
+    "cause": "No pathogen detected; healthy physiological status.",
+    "cultural_controls": [
+      "Maintain deep earthing up around plants to encourage tuber bulking and prevent greening.",
+      "Keep ridges weed-free."
+    ],
+    "biological_controls": [
+      "Preventive biofertilizer (Azotobacter, Phosphobacteria) application.",
+      "Neem cake incorporation in soil."
+    ],
+    "monitoring": [
+      "Regular weekly field walk-throughs checking leaf undersides and soil moisture.",
+      "Inspect for aphid vectors on leaf undersides."
+    ],
+    "water_management": [
+      "Maintain 65-75% available soil moisture during stolon formation and tuber bulking.",
+      "Withhold irrigation 10-15 days before harvest."
+    ],
+    "chemical_advisory": "No chemicals required. Continue standard balanced plant nutrition. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Ensure balanced potassium application for skin set and disease resistance.",
+      "Use healthy certified seed tubers."
+    ],
+    "source_note": "CPRI Potato Production Manual & National Horticulture Board India."
+  },
+  "pepper_bacterial_spot": {
+    "id": "pepper_bacterial_spot",
+    "crop": "Pepper",
+    "display_name": "Bacterial Spot",
+    "raw_class": "Pepper__bell___Bacterial_spot",
+    "is_healthy": false,
+    "severity_weight": 0.8,
+    "favourable_temp_range": [
+      24.0,
+      32.0
+    ],
+    "favourable_humidity_min": 80.0,
+    "symptoms": [
+      "Small, circular or irregular water-soaked spots on leaves.",
+      "Lesions enlarge to 3-5 mm, turning dark brown with a distinct yellow halo.",
+      "Leaves turn yellow and shed, causing severe defoliation and sunburn to fruit.",
+      "Warty, raised, scab-like spots on green bell peppers."
+    ],
+    "cause": "Bacterium Xanthomonas euvesicatoria / Xanthomonas vesicatoria.",
+    "cultural_controls": [
+      "Never enter or cultivate fields when pepper leaves are wet from rain or dew.",
+      "Destroy and plow down infected residues immediately post-harvest.",
+      "Disinfect nursery trays, tools, and stakes with a registered sterilant."
+    ],
+    "biological_controls": [
+      "Seed treatment with Pseudomonas fluorescens bio-agent.",
+      "Foliar bio-control sprays containing Bacillus amyloliquefaciens."
+    ],
+    "monitoring": [
+      "Regularly inspect the underside of bell pepper leaves for water-soaked greasy lesions.",
+      "Check seedlings in the nursery before transplanting."
+    ],
+    "water_management": [
+      "Switch to drip irrigation to prevent bacterial dispersal via water droplets.",
+      "Avoid excess moisture around plant crowns."
+    ],
+    "chemical_advisory": "Copper hydroxide mixed with protective mancozeb spray provides preventive suppression. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Plant resistant pepper varieties (races 1-5 resistance where available).",
+      "Use certified pathogen-free seeds treated with hot water (50\u00b0C for 25 min)."
+    ],
+    "source_note": "World Vegetable Center Capsicum IPM Series & ICAR-IIHR."
+  },
+  "pepper_healthy": {
+    "id": "pepper_healthy",
+    "crop": "Pepper",
+    "display_name": "Healthy Bell Pepper",
+    "raw_class": "Pepper__bell___healthy",
+    "is_healthy": true,
+    "severity_weight": 0.0,
+    "favourable_temp_range": [
+      20.0,
+      30.0
+    ],
+    "favourable_humidity_min": 50.0,
+    "symptoms": [
+      "Glossy, deep green leaves with crisp texture and no chlorosis.",
+      "Sturdy upright branches supporting flowers and developing fruits.",
+      "Smooth fruit surfaces free of scabs, sunscald, or rot."
+    ],
+    "cause": "No pathogen detected; healthy crop condition.",
+    "cultural_controls": [
+      "Maintain organic mulching to regulate soil temperature and conserve moisture.",
+      "Keep field borders clear of alternate solanaceous weeds."
+    ],
+    "biological_controls": [
+      "Periodic application of vermicompost enriched with Trichoderma.",
+      "Encourage beneficial predators for thrips and mite suppression."
+    ],
+    "monitoring": [
+      "Routine weekly scouting for early insect vector activity (aphids, mites, thrips).",
+      "Monitor soil moisture at 15 cm depth."
+    ],
+    "water_management": [
+      "Deliver consistent drip irrigation to prevent blossom-end rot and plant stress.",
+      "Ensure efficient bed drainage during monsoon showers."
+    ],
+    "chemical_advisory": "No chemicals needed. Continue organic nutrition and preventive care. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.",
+    "prevention": [
+      "Apply calcium and potassium to build thick, resilient cell walls.",
+      "Stake heavy fruiting plants to prevent lodging."
+    ],
+    "source_note": "FAO Bell Pepper Production Guide & ICAR Extension Bulletin."
+  },
+  "apple_apple_scab": {
+    "id": "apple_apple_scab",
+    "crop": "Apple",
+    "display_name": "Apple Scab",
+    "raw_class": "Apple___Apple_scab",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.8,
+    "favourable_temp_range": [
+      16.0,
+      24.0
+    ],
+    "favourable_humidity_min": 80.0,
+    "symptoms": [
+      "Olive-green to brown velvety lesions on leaf surfaces",
+      "Cracked, scabby brown fruit spots"
+    ],
+    "cause": "Venturia inaequalis fungus spreading via airborne ascospores during wet spring.",
+    "cultural_controls": [
+      "Rake and shred fallen apple leaves to reduce overwintering inoculum",
+      "Prune trees to open up the canopy for sunlight and air flow"
+    ],
+    "biological_controls": [
+      "Bio-fungicide sprays containing Bacillus amyloliquefaciens",
+      "Sulfur and potassium bicarbonate sprays"
+    ],
+    "monitoring": [
+      "Scout leaves early season right from green tip to petal fall"
+    ],
+    "water_management": [
+      "Avoid overhead sprinkling; utilize drip irrigation."
+    ],
+    "chemical_advisory": "If high infection pressure occurs, protectant fungicides like captan or dodine may be used according to local agricultural university advisory. Consult KVK.",
+    "prevention": [
+      "Plant resistant cultivars such as Liberty, Prima, or Enterprise."
+    ],
+    "source_note": "ICAR-CITH & TNAU Agritech Portal."
+  },
+  "apple_black_rot": {
+    "id": "apple_black_rot",
+    "crop": "Apple",
+    "display_name": "Black Rot",
+    "raw_class": "Apple___Black_rot",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.85,
+    "favourable_temp_range": [
+      20.0,
+      28.0
+    ],
+    "favourable_humidity_min": 75.0,
+    "symptoms": [
+      "Frog-eye leaf spots with purple borders",
+      "Black rotting mummified fruit on tree branches"
+    ],
+    "cause": "Botryosphaeria obtusa fungal pathogen.",
+    "cultural_controls": [
+      "Prune dead twigs, fire-blight cankers, and remove all mummified apples."
+    ],
+    "biological_controls": [
+      "Trichoderma viride applications during pruning season."
+    ],
+    "monitoring": [
+      "Inspect orchards post-bloom for frog-eye leaf lesions."
+    ],
+    "water_management": [
+      "Ensure proper orchard drainage and avoid canopy soaking."
+    ],
+    "chemical_advisory": "Apply broad-spectrum protective fungicides during bloom if history exists. Consult KVK.",
+    "prevention": [
+      "Maintain balanced tree vigor without excess nitrogen."
+    ],
+    "source_note": "ICAR-CITH Apple Disease Advisory."
+  },
+  "apple_cedar_apple_rust": {
+    "id": "apple_cedar_apple_rust",
+    "crop": "Apple",
+    "display_name": "Cedar Apple Rust",
+    "raw_class": "Apple___Cedar_apple_rust",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.7,
+    "favourable_temp_range": [
+      12.0,
+      24.0
+    ],
+    "favourable_humidity_min": 85.0,
+    "symptoms": [
+      "Bright yellow-orange spots on upper leaf surfaces",
+      "Tube-like aecia structures on underside of leaves"
+    ],
+    "cause": "Gymnosporangium juniperi-virginianae requiring alternate host Juniper.",
+    "cultural_controls": [
+      "Remove nearby wild junipers/red cedars within 1-2 km radius if feasible."
+    ],
+    "biological_controls": [
+      "Liquid copper octanoate at bud break."
+    ],
+    "monitoring": [
+      "Scout in spring when orange gelatinous galls appear on junipers."
+    ],
+    "water_management": [
+      "Prevent lingering leaf wetness during early spring rains."
+    ],
+    "chemical_advisory": "Sterol inhibitors or mancozeb prior to rain events during pink to petal fall. Consult KVK.",
+    "prevention": [
+      "Plant rust-immune or resistant varieties."
+    ],
+    "source_note": "SKUAST Horticulture Advisory."
+  },
+  "apple_healthy": {
+    "id": "apple_healthy",
+    "crop": "Apple",
+    "display_name": "Healthy Apple",
+    "raw_class": "Apple___healthy",
+    "is_healthy": true,
+    "condition_type": "healthy",
+    "severity_weight": 0.0,
+    "favourable_temp_range": [
+      15.0,
+      28.0
+    ],
+    "favourable_humidity_min": 50.0,
+    "symptoms": [
+      "Lush green, unblemished foliage with optimal chlorophyll density."
+    ],
+    "cause": "None. Plant is healthy and vigorous.",
+    "cultural_controls": [
+      "Maintain balanced nitrogen-potassium fertilization and weed-free tree basin."
+    ],
+    "biological_controls": [
+      "Periodic compost tea application to support beneficial phyllosphere microbes."
+    ],
+    "monitoring": [
+      "Continue routine weekly orchard scouting."
+    ],
+    "water_management": [
+      "Maintain drip irrigation matching tree evapo-transpiration."
+    ],
+    "chemical_advisory": "No chemical application warranted.",
+    "prevention": [
+      "Regular orchard sanitation and pruning."
+    ],
+    "source_note": "Standard Horticultural Best Practices."
+  },
+  "banana_black_sigatoka": {
+    "id": "banana_black_sigatoka",
+    "crop": "Banana",
+    "display_name": "Black Sigatoka",
+    "raw_class": "Banana___Black_sigatoka",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.9,
+    "favourable_temp_range": [
+      25.0,
+      32.0
+    ],
+    "favourable_humidity_min": 85.0,
+    "symptoms": [
+      "Reddish-brown narrow streaks parallel to leaf veins, expanding into black necrotic patches",
+      "Premature bunch ripening and severe leaf collapse"
+    ],
+    "cause": "Pseudocercospora fijiensis airborne fungal pathogen.",
+    "cultural_controls": [
+      "De-leafing: surgically cut and remove necrotic leaf sections weekly; burn or bury infected leaves",
+      "Ensure wide planting spacing (2.0m x 2.0m) to promote fast canopy drying"
+    ],
+    "biological_controls": [
+      "Bio-agents like Pseudomonas fluorescens (10g/L) and Bacillus subtilis foliar spray",
+      "Neem oil 1% formulation with surfactant"
+    ],
+    "monitoring": [
+      "Track youngest leaf spotted (YLS) index weekly."
+    ],
+    "water_management": [
+      "Provide good field drainage; avoid stagnant irrigation water around mats."
+    ],
+    "chemical_advisory": "Systemic triazoles or strobilurins rotated with mineral oil according to FRAC anti-resistance rules. Consult KVK.",
+    "prevention": [
+      "Utilize tissue-culture plantlets from certified disease-free nurseries."
+    ],
+    "source_note": "NRCB (National Research Centre for Banana) Trichy IPM Advisory."
+  },
+  "banana_panama_wilt": {
+    "id": "banana_panama_wilt",
+    "crop": "Banana",
+    "display_name": "Panama Wilt",
+    "raw_class": "Banana___Panama_wilt",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.95,
+    "favourable_temp_range": [
+      24.0,
+      30.0
+    ],
+    "favourable_humidity_min": 70.0,
+    "symptoms": [
+      "Yellowing of lower leaf margins progressing inward",
+      "Petiole buckling and skirt of dead leaves clinging to pseudostem",
+      "Vascular discoloration (red-brown ring) inside pseudostem"
+    ],
+    "cause": "Fusarium oxysporum f. sp. cubense (Foc TR4 / Race 1) soil-borne chlamydospores.",
+    "cultural_controls": [
+      "Immediate eradication and quarantine of infected mats with quicklime treatment",
+      "Disinfect footwear and farming implements with 5% sodium hypochlorite"
+    ],
+    "biological_controls": [
+      "Soil application of Trichoderma reesei enriched farmyard manure at planting"
+    ],
+    "monitoring": [
+      "Scout fields for characteristic lower leaf collapse and split pseudostems."
+    ],
+    "water_management": [
+      "Prevent runoff irrigation from infected parcels to clean parcels."
+    ],
+    "chemical_advisory": "No curative chemical. Strict quarantine and soil biocontrol.",
+    "prevention": [
+      "Adopt tolerant cultivars like Grand Naine with bio-priming."
+    ],
+    "source_note": "NRCB & FAO Panama Wilt Advisory."
+  },
+  "banana_healthy": {
+    "id": "banana_healthy",
+    "crop": "Banana",
+    "display_name": "Healthy Banana",
+    "raw_class": "Banana___healthy",
+    "is_healthy": true,
+    "condition_type": "healthy",
+    "severity_weight": 0.0,
+    "favourable_temp_range": [
+      24.0,
+      32.0
+    ],
+    "favourable_humidity_min": 60.0,
+    "symptoms": [
+      "Broad, glossy emerald leaves with strong erect petioles."
+    ],
+    "cause": "None. Plant is healthy.",
+    "cultural_controls": [
+      "Desuckering: maintain mother plant and one healthy follower ratoon sucker."
+    ],
+    "biological_controls": [
+      "Apply vesicular arbuscular mycorrhiza (VAM) and biofertilizers at root zone."
+    ],
+    "monitoring": [
+      "Scout for aphid vectors and Sigatoka streaks every fortnight."
+    ],
+    "water_management": [
+      "Maintain soil moisture around 70% field capacity."
+    ],
+    "chemical_advisory": "No chemical required.",
+    "prevention": [
+      "Mulch banana basin with crop residue to conserve moisture."
+    ],
+    "source_note": "NRCB Standard Package of Practices."
+  },
+  "brinjal_bacterial_wilt": {
+    "id": "brinjal_bacterial_wilt",
+    "crop": "Brinjal",
+    "display_name": "Bacterial Wilt",
+    "raw_class": "Brinjal___Bacterial_wilt",
+    "is_healthy": false,
+    "condition_type": "bacterial",
+    "severity_weight": 0.9,
+    "favourable_temp_range": [
+      28.0,
+      35.0
+    ],
+    "favourable_humidity_min": 80.0,
+    "symptoms": [
+      "Sudden daytime wilting of plant while leaves remain green",
+      "Milky bacterial ooze stream when cut stem is placed in clear water"
+    ],
+    "cause": "Ralstonia solanacearum soil bacterium entering through root wounds.",
+    "cultural_controls": [
+      "Uproot and burn wilted plants; drench planting pit with bleaching powder (2g/L)",
+      "Practice 3-year crop rotation with non-solanaceous crops (maize, sorghum)"
+    ],
+    "biological_controls": [
+      "Seedling root dip in Pseudomonas fluorescens (10g/L) before transplanting"
+    ],
+    "monitoring": [
+      "Look for sudden midday drooping in patches across the field."
+    ],
+    "water_management": [
+      "Avoid furrow irrigation that carries bacterial runoff across rows."
+    ],
+    "chemical_advisory": "Drench affected root zones with copper oxychloride (3g/L) + streptocycline (100ppm). Consult KVK.",
+    "prevention": [
+      "Use wilt-resistant rootstocks for grafting or resistant varieties like Pant Rituraj."
+    ],
+    "source_note": "ICAR-IIHR Bangalore Eggplant IPM."
+  },
+  "brinjal_phomopsis_blight": {
+    "id": "brinjal_phomopsis_blight",
+    "crop": "Brinjal",
+    "display_name": "Phomopsis Blight",
+    "raw_class": "Brinjal___Phomopsis_blight",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.8,
+    "favourable_temp_range": [
+      25.0,
+      32.0
+    ],
+    "favourable_humidity_min": 80.0,
+    "symptoms": [
+      "Circular buff to brown spots on leaves containing minute black pycnidia",
+      "Sunken, dry rotting lesions on brinjal fruits"
+    ],
+    "cause": "Phomopsis vexans fungal pathogen.",
+    "cultural_controls": [
+      "Collect and burn infected leaves and fallen fruit mummies",
+      "Deep summer plowing to bury resting mycelium"
+    ],
+    "biological_controls": [
+      "Foliar spray of Trichoderma harzianum (5g/L) or neem formulation."
+    ],
+    "monitoring": [
+      "Inspect lower leaves and developing fruit calyx during wet humid spells."
+    ],
+    "water_management": [
+      "Use drip irrigation to keep fruit and foliage dry."
+    ],
+    "chemical_advisory": "Foliar spray of mancozeb (2.5g/L) or carbendazim (1g/L) at fruit set. Consult KVK.",
+    "prevention": [
+      "Sow certified pathogen-free seeds treated with Trichoderma."
+    ],
+    "source_note": "TNAU Agritech Portal Brinjal Advisory."
+  },
+  "brinjal_healthy": {
+    "id": "brinjal_healthy",
+    "crop": "Brinjal",
+    "display_name": "Healthy Brinjal",
+    "raw_class": "Brinjal___healthy",
+    "is_healthy": true,
+    "condition_type": "healthy",
+    "severity_weight": 0.0,
+    "favourable_temp_range": [
+      22.0,
+      32.0
+    ],
+    "favourable_humidity_min": 60.0,
+    "symptoms": [
+      "Vibrant lobed green leaves without mottling or necrosis; healthy purple/white flower buds."
+    ],
+    "cause": "None. Crop is healthy.",
+    "cultural_controls": [
+      "Maintain balanced NPK fertilization and staking for heavy fruiting."
+    ],
+    "biological_controls": [
+      "Install yellow sticky traps for whitefly and shoot borer monitoring."
+    ],
+    "monitoring": [
+      "Weekly scouting for shoot and fruit borer damage."
+    ],
+    "water_management": [
+      "Provide uniform drip irrigation avoiding waterlogging."
+    ],
+    "chemical_advisory": "No chemical required.",
+    "prevention": [
+      "Mulch beds with straw to prevent weed competition."
+    ],
+    "source_note": "ICAR-IIHR Vegetable Advisory."
+  },
+  "chilli_anthracnose": {
+    "id": "chilli_anthracnose",
+    "crop": "Chilli",
+    "display_name": "Chilli Anthracnose / Fruit Rot",
+    "raw_class": "Chilli___Anthracnose",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.85,
+    "favourable_temp_range": [
+      26.0,
+      32.0
+    ],
+    "favourable_humidity_min": 80.0,
+    "symptoms": [
+      "Circular sunken lesions on green or ripe fruits with concentric rings of salmon-pink acervuli",
+      "Small circular necrotic spots on leaves and dieback of twigs from top downward"
+    ],
+    "cause": "Colletotrichum capsici and Colletotrichum gloeosporioides fungal complex.",
+    "cultural_controls": [
+      "Remove and destroy infected fruits and dieback twigs during weeding",
+      "Avoid harvesting in morning dew; dry pods immediately after picking"
+    ],
+    "biological_controls": [
+      "Foliar spray of Pseudomonas fluorescens (10g/L) or Bacillus subtilis",
+      "5% NSKE (Neem Seed Kernel Extract) spray"
+    ],
+    "monitoring": [
+      "Inspect fruit ripening stage and twig tips during monsoon rain breaks."
+    ],
+    "water_management": [
+      "Avoid overhead irrigation which splashes fungal spores."
+    ],
+    "chemical_advisory": "Protective spray of copper oxychloride (3g/L) or azoxystrobin (1ml/L) at fruit formation. Consult KVK.",
+    "prevention": [
+      "Treat seeds with Trichoderma viride (4g/kg) before sowing."
+    ],
+    "source_note": "ICAR-IIHR Chilli Disease Management."
+  },
+  "chilli_bacterial_leaf_spot": {
+    "id": "chilli_bacterial_leaf_spot",
+    "crop": "Chilli",
+    "display_name": "Bacterial Leaf Spot",
+    "raw_class": "Chilli___Bacterial_leaf_spot",
+    "is_healthy": false,
+    "condition_type": "bacterial",
+    "severity_weight": 0.75,
+    "favourable_temp_range": [
+      25.0,
+      32.0
+    ],
+    "favourable_humidity_min": 85.0,
+    "symptoms": [
+      "Small water-soaked blisters turning brown with yellow halos",
+      "Severe defoliation leading to sun-scald on exposed fruits"
+    ],
+    "cause": "Xanthomonas campestris pv. vesicatoria.",
+    "cultural_controls": [
+      "Promptly rogue out infected seedlings from nursery beds."
+    ],
+    "biological_controls": [
+      "Bacillus subtilis foliar application at vegetative stage."
+    ],
+    "monitoring": [
+      "Scout nursery and field every 4 days after heavy rainfall."
+    ],
+    "water_management": [
+      "Shift to drip; avoid field work while plants are damp."
+    ],
+    "chemical_advisory": "Foliar spray of copper hydroxide (2g/L) + streptocycline (100ppm). Consult KVK.",
+    "prevention": [
+      "Hot water seed treatment (50C for 25 min) or certified seeds."
+    ],
+    "source_note": "TNAU Agritech Portal Chilli Guide."
+  },
+  "chilli_healthy": {
+    "id": "chilli_healthy",
+    "crop": "Chilli",
+    "display_name": "Healthy Chilli",
+    "raw_class": "Chilli___healthy",
+    "is_healthy": true,
+    "condition_type": "healthy",
+    "severity_weight": 0.0,
+    "favourable_temp_range": [
+      20.0,
+      30.0
+    ],
+    "favourable_humidity_min": 60.0,
+    "symptoms": [
+      "Glossy dark green lanceolate leaves with vigorous branching and abundant flowering."
+    ],
+    "cause": "None. Crop is healthy.",
+    "cultural_controls": [
+      "Maintain balanced fertilisation with micronutrients (Zinc, Boron)."
+    ],
+    "biological_controls": [
+      "Install blue and yellow sticky traps for thrips and aphid monitoring."
+    ],
+    "monitoring": [
+      "Weekly check for thrips leaf curling and mite webs."
+    ],
+    "water_management": [
+      "Irrigate when top 2-3 cm soil is dry."
+    ],
+    "chemical_advisory": "No chemical required.",
+    "prevention": [
+      "Maintain clean weed-free borders around chili beds."
+    ],
+    "source_note": "Standard Horticultural Advisory."
+  },
+  "corn_cercospora_leaf_spot": {
+    "id": "corn_cercospora_leaf_spot",
+    "crop": "Corn",
+    "display_name": "Gray Leaf Spot",
+    "raw_class": "Corn___Cercospora_leaf_spot",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.75,
+    "favourable_temp_range": [
+      24.0,
+      30.0
+    ],
+    "favourable_humidity_min": 85.0,
+    "symptoms": [
+      "Rectangular brown to tan lesions restricted between leaf veins",
+      "Lesions coalesce to cause severe blighting of maize canopy"
+    ],
+    "cause": "Cercospora zeae-maydis fungal pathogen surviving on corn stover.",
+    "cultural_controls": [
+      "Tillage to bury corn residue in continuous maize fields",
+      "Two-year crop rotation with soybean or legumes"
+    ],
+    "biological_controls": [
+      "Bio-formulations of Bacillus pumilus or Trichoderma."
+    ],
+    "monitoring": [
+      "Scout lower leaves starting at V8 to tasseling stage."
+    ],
+    "water_management": [
+      "Ensure proper drainage and avoid prolonged leaf wetness."
+    ],
+    "chemical_advisory": "Strobilurin or triazole fungicides applied at tasseling (VT) stage if threshold crossed. Consult KVK.",
+    "prevention": [
+      "Select hybrid corn varieties with high Gray Leaf Spot resistance."
+    ],
+    "source_note": "ICAR-IIMR (Indian Institute of Maize Research) Advisory."
+  },
+  "corn_common_rust": {
+    "id": "corn_common_rust",
+    "crop": "Corn",
+    "display_name": "Common Rust",
+    "raw_class": "Corn___Common_rust",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.7,
+    "favourable_temp_range": [
+      16.0,
+      25.0
+    ],
+    "favourable_humidity_min": 90.0,
+    "symptoms": [
+      "Oval to elongate cinnamon-brown pustules on both upper and lower leaf surfaces",
+      "Pustules rupture epidermal tissue releasing powdery spores"
+    ],
+    "cause": "Puccinia sorghi fungus spreading by windborne urediniospores.",
+    "cultural_controls": [
+      "Early planting to escape late-season heavy spore showers."
+    ],
+    "biological_controls": [
+      "Bio-fungicide sprays of Trichoderma viride."
+    ],
+    "monitoring": [
+      "Inspect corn leaves during cool, foggy morning conditions."
+    ],
+    "water_management": [
+      "Avoid overhead irrigation in cool temperatures."
+    ],
+    "chemical_advisory": "Foliar spray of mancozeb (2g/L) or propiconazole (1ml/L) if >6 pustules per leaf before silking. Consult KVK.",
+    "prevention": [
+      "Plant resistant hybrids with Rp gene rust protection."
+    ],
+    "source_note": "ICAR-IIMR Maize IPM."
+  },
+  "corn_northern_leaf_blight": {
+    "id": "corn_northern_leaf_blight",
+    "crop": "Corn",
+    "display_name": "Northern Leaf Blight",
+    "raw_class": "Corn___Northern_Leaf_Blight",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.85,
+    "favourable_temp_range": [
+      18.0,
+      27.0
+    ],
+    "favourable_humidity_min": 90.0,
+    "symptoms": [
+      "Long, elliptical, cigar-shaped grayish-green to tan lesions (2 to 15 cm long)",
+      "Dark olive fuzz of spores visible inside lesions under damp weather"
+    ],
+    "cause": "Exserohilum turcicum fungal pathogen.",
+    "cultural_controls": [
+      "Crop rotation out of maize for 1 to 2 years; residue shredding."
+    ],
+    "biological_controls": [
+      "Pseudomonas fluorescens foliar spray."
+    ],
+    "monitoring": [
+      "Scout lower leaves prior to tasseling."
+    ],
+    "water_management": [
+      "Maintain adequate row spacing (60cm x 20cm) for ventilation."
+    ],
+    "chemical_advisory": "Foliar application of azoxystrobin + tebuconazole if lesions appear before silking. Consult KVK.",
+    "prevention": [
+      "Choose resistant maize hybrids."
+    ],
+    "source_note": "ICAR-IIMR Northern Corn Blight Protocol."
+  },
+  "corn_healthy": {
+    "id": "corn_healthy",
+    "crop": "Corn",
+    "display_name": "Healthy Corn",
+    "raw_class": "Corn___healthy",
+    "is_healthy": true,
+    "condition_type": "healthy",
+    "severity_weight": 0.0,
+    "favourable_temp_range": [
+      20.0,
+      32.0
+    ],
+    "favourable_humidity_min": 60.0,
+    "symptoms": [
+      "Broad deep-green leaves with sturdy stalks and well-developed brace roots."
+    ],
+    "cause": "None. Crop is healthy.",
+    "cultural_controls": [
+      "Split application of nitrogen at basal, knee-high (V6), and tasseling."
+    ],
+    "biological_controls": [
+      "Pheromone traps for fall armyworm (Spodoptera frugiperda) monitoring."
+    ],
+    "monitoring": [
+      "Scout weekly for fall armyworm whorl damage."
+    ],
+    "water_management": [
+      "Critical irrigation at knee-high, tasseling, and silking stages."
+    ],
+    "chemical_advisory": "No chemical required.",
+    "prevention": [
+      "Balanced fertilisation including zinc sulphate."
+    ],
+    "source_note": "ICAR-IIMR Best Management Guidelines."
+  },
+  "cotton_bacterial_blight": {
+    "id": "cotton_bacterial_blight",
+    "crop": "Cotton",
+    "display_name": "Bacterial Blight / Angular Leaf Spot",
+    "raw_class": "Cotton___Bacterial_blight",
+    "is_healthy": false,
+    "condition_type": "bacterial",
+    "severity_weight": 0.85,
+    "favourable_temp_range": [
+      28.0,
+      35.0
+    ],
+    "favourable_humidity_min": 85.0,
+    "symptoms": [
+      "Water-soaked angular leaf spots bounded by veinlets",
+      "Black lesions along main veins (black arm) and sunken water-soaked spots on bolls"
+    ],
+    "cause": "Xanthomonas citri pv. malvacearum seed and residue borne bacterium.",
+    "cultural_controls": [
+      "Acid delinting of cotton seeds; destroy infected plant debris."
+    ],
+    "biological_controls": [
+      "Seed bacterization with Pseudomonas fluorescens (10g/kg)."
+    ],
+    "monitoring": [
+      "Scout 30-45 days after sowing during monsoon rains."
+    ],
+    "water_management": [
+      "Avoid water stagnation in furrows; ensure field drainage."
+    ],
+    "chemical_advisory": "Spray copper oxychloride (2.5g/L) + streptocycline (100ppm). Consult KVK.",
+    "prevention": [
+      "Plant immune or resistant cotton varieties."
+    ],
+    "source_note": "CICR (Central Institute for Cotton Research) Nagpur Advisory."
+  },
+  "cotton_fusarium_wilt": {
+    "id": "cotton_fusarium_wilt",
+    "crop": "Cotton",
+    "display_name": "Fusarium Wilt",
+    "raw_class": "Cotton___Fusarium_wilt",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.9,
+    "favourable_temp_range": [
+      25.0,
+      32.0
+    ],
+    "favourable_humidity_min": 70.0,
+    "symptoms": [
+      "Yellowing and browning along leaf margins progressing inward",
+      "Petiole and leaf drop starting from bottom; dark brown ring in stem vascular xylem"
+    ],
+    "cause": "Fusarium oxysporum f. sp. vasinfectum soil-inhabiting fungus.",
+    "cultural_controls": [
+      "Deep summer ploughing; crop rotation with non-host cereals (pearl millet, sorghum)."
+    ],
+    "biological_controls": [
+      "Apply Trichoderma harzianum enriched farmyard manure (2.5 kg/ton)."
+    ],
+    "monitoring": [
+      "Scout at squaring and flowering stage for patchy wilting."
+    ],
+    "water_management": [
+      "Avoid over-irrigation in heavy black cotton soils."
+    ],
+    "chemical_advisory": "Soil drenching with carbendazim (1g/L) at initial symptom onset. Consult KVK.",
+    "prevention": [
+      "Use wilt-resistant cotton cultivars."
+    ],
+    "source_note": "CICR Nagpur Cotton Disease Bulletin."
+  },
+  "cotton_healthy": {
+    "id": "cotton_healthy",
+    "crop": "Cotton",
+    "display_name": "Healthy Cotton",
+    "raw_class": "Cotton___healthy",
+    "is_healthy": true,
+    "condition_type": "healthy",
+    "severity_weight": 0.0,
+    "favourable_temp_range": [
+      22.0,
+      35.0
+    ],
+    "favourable_humidity_min": 50.0,
+    "symptoms": [
+      "Robust dark green palmate leaves with vigorous sympodial branching and healthy squares."
+    ],
+    "cause": "None. Crop is healthy.",
+    "cultural_controls": [
+      "Timely inter-cultivation and balanced nitrogen management to prevent rank growth."
+    ],
+    "biological_controls": [
+      "Install yellow sticky traps for sucking pest monitoring (jassids, whiteflies)."
+    ],
+    "monitoring": [
+      "Scout weekly for pink bollworm and sucking pest thresholds."
+    ],
+    "water_management": [
+      "Provide drip irrigation at square formation and boll development."
+    ],
+    "chemical_advisory": "No chemical required.",
+    "prevention": [
+      "Adhere to recommended spacing."
+    ],
+    "source_note": "CICR Cotton Advisory."
+  },
+  "grape_black_rot": {
+    "id": "grape_black_rot",
+    "crop": "Grape",
+    "display_name": "Black Rot",
+    "raw_class": "Grape___Black_rot",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.85,
+    "favourable_temp_range": [
+      20.0,
+      28.0
+    ],
+    "favourable_humidity_min": 80.0,
+    "symptoms": [
+      "Circular reddish-brown leaf spots with dark margins and tiny black pycnidia",
+      "Berries turn brown, shrivel into hard, black wrinkled mummies"
+    ],
+    "cause": "Guignardia bidwellii fungal pathogen.",
+    "cultural_controls": [
+      "Remove all mummified berries from vines and ground during winter pruning",
+      "Canopy management: shoot positioning and leaf removal around fruit zone for airflow"
+    ],
+    "biological_controls": [
+      "Foliar bio-fungicide sprays of Bacillus subtilis."
+    ],
+    "monitoring": [
+      "Inspect vines from bud break through 4 weeks post-bloom."
+    ],
+    "water_management": [
+      "Use drip under vine row; avoid overhead watering."
+    ],
+    "chemical_advisory": "Protective fungicide (mancozeb or kresoxim-methyl) before rainfall events. Consult KVK.",
+    "prevention": [
+      "Prune to open trellis structure."
+    ],
+    "source_note": "NRCG (National Research Centre for Grapes) Pune IPM."
+  },
+  "grape_esca_black_measles": {
+    "id": "grape_esca_black_measles",
+    "crop": "Grape",
+    "display_name": "Esca / Black Measles",
+    "raw_class": "Grape___Esca_Black_Measles",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.8,
+    "favourable_temp_range": [
+      22.0,
+      30.0
+    ],
+    "favourable_humidity_min": 70.0,
+    "symptoms": [
+      "Tiger-stripe leaf pattern: interveinal yellow and necrotic brown bands with green veins",
+      "Dark purple/black speckling on berry skins (measles)"
+    ],
+    "cause": "Fungal trunk disease complex (Phaeomoniella chlamydospora, Phaeoacremonium minimum, Fomitiporia).",
+    "cultural_controls": [
+      "Prune late in dormant season; seal all pruning wounds with wound sealant or fungicide paste",
+      "Mark diseased vines and prune them last to avoid transmitting fungus via shears"
+    ],
+    "biological_controls": [
+      "Treat pruning wounds immediately with Trichoderma-based bio-paste."
+    ],
+    "monitoring": [
+      "Scout for tiger-stripe foliar symptoms in mid-summer."
+    ],
+    "water_management": [
+      "Avoid water stress during fruit sizing."
+    ],
+    "chemical_advisory": "No cure once inside trunk. Trunk renewal or surgical removal of rotted wood. Consult KVK.",
+    "prevention": [
+      "Plant certified disease-free vine nursery stock."
+    ],
+    "source_note": "NRCG Pune Grape Advisory."
+  },
+  "grape_leaf_blight": {
+    "id": "grape_leaf_blight",
+    "crop": "Grape",
+    "display_name": "Isariopsis Leaf Blight",
+    "raw_class": "Grape___Leaf_blight",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.75,
+    "favourable_temp_range": [
+      24.0,
+      32.0
+    ],
+    "favourable_humidity_min": 80.0,
+    "symptoms": [
+      "Large irregular brown patches with darker borders on mature foliage",
+      "Premature defoliation resulting in berry sun-scald and poor sugar accumulation"
+    ],
+    "cause": "Pseudocercospora cladosporioides (Isariopsis clavispora).",
+    "cultural_controls": [
+      "Remove and destroy infected leaf litter beneath vines."
+    ],
+    "biological_controls": [
+      "Neem seed oil spray or Trichoderma viride."
+    ],
+    "monitoring": [
+      "Scout post-monsoon during fruit veraison."
+    ],
+    "water_management": [
+      "Maintain drip irrigation."
+    ],
+    "chemical_advisory": "Spray copper oxychloride (2.5g/L) or azoxystrobin (1ml/L). Consult KVK.",
+    "prevention": [
+      "Ensure adequate ventilation through canopy thinning."
+    ],
+    "source_note": "NRCG Pune."
+  },
+  "grape_healthy": {
+    "id": "grape_healthy",
+    "crop": "Grape",
+    "display_name": "Healthy Grape",
+    "raw_class": "Grape___healthy",
+    "is_healthy": true,
+    "condition_type": "healthy",
+    "severity_weight": 0.0,
+    "favourable_temp_range": [
+      18.0,
+      30.0
+    ],
+    "favourable_humidity_min": 50.0,
+    "symptoms": [
+      "Lush broad green leaves with healthy tendrils and clean developing clusters."
+    ],
+    "cause": "None. Vine is healthy.",
+    "cultural_controls": [
+      "Proper canopy shoot thinning and berry thinning for uniform cluster density."
+    ],
+    "biological_controls": [
+      "Beneficial cover crops (clover, vetch) between vine rows."
+    ],
+    "monitoring": [
+      "Weekly scouting for downy and powdery mildew signs."
+    ],
+    "water_management": [
+      "Regulated deficit irrigation (RDI) post-veraison to enhance fruit quality."
+    ],
+    "chemical_advisory": "No chemical required.",
+    "prevention": [
+      "Sanitary pruning practices."
+    ],
+    "source_note": "NRCG Best Management Guide."
+  },
+  "rice_bacterial_leaf_blight": {
+    "id": "rice_bacterial_leaf_blight",
+    "crop": "Rice",
+    "display_name": "Bacterial Leaf Blight",
+    "raw_class": "Rice___Bacterial_leaf_blight",
+    "is_healthy": false,
+    "condition_type": "bacterial",
+    "severity_weight": 0.9,
+    "favourable_temp_range": [
+      25.0,
+      34.0
+    ],
+    "favourable_humidity_min": 85.0,
+    "symptoms": [
+      "Water-soaked stripes starting from leaf tips and margins with wavy edges",
+      "Lesions turn yellow to straw-white; bacterial amber beads on morning leaves"
+    ],
+    "cause": "Xanthomonas oryzae pv. oryzae.",
+    "cultural_controls": [
+      "Drain excess field water temporarily; avoid high nitrogen top-dressing during disease spread",
+      "Maintain clean bunds free of weed hosts (Leersia oryzoides)"
+    ],
+    "biological_controls": [
+      "Foliar spray of Pseudomonas fluorescens (10g/L) or Bacillus subtilis."
+    ],
+    "monitoring": [
+      "Inspect field during tillering to panicle initiation after windy storms."
+    ],
+    "water_management": [
+      "Avoid deep standing water; practice alternate wetting and drying (AWD)."
+    ],
+    "chemical_advisory": "Spray copper hydroxide (2g/L) + streptocycline (100ppm). Consult KVK.",
+    "prevention": [
+      "Grow BLB-resistant varieties like Improved Samba Mahsuri or Pusa Basmati 1718."
+    ],
+    "source_note": "ICAR-IIRR (Indian Institute of Rice Research) Hyderabad Advisory."
+  },
+  "rice_brown_spot": {
+    "id": "rice_brown_spot",
+    "crop": "Rice",
+    "display_name": "Brown Spot",
+    "raw_class": "Rice___Brown_spot",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.75,
+    "favourable_temp_range": [
+      25.0,
+      30.0
+    ],
+    "favourable_humidity_min": 85.0,
+    "symptoms": [
+      "Oval or circular brown lesions with yellow halo evenly scattered over leaves",
+      "Dark brown spots on glumes causing grain discoloration and unfilled grains"
+    ],
+    "cause": "Bipolaris oryzae fungal pathogen commonly associated with nutrient-deficient soils.",
+    "cultural_controls": [
+      "Apply balanced fertilizers including potash and silicon; correct soil zinc and iron deficiencies",
+      "Treat seeds with hot water (53-54C for 10-12 min)"
+    ],
+    "biological_controls": [
+      "Seed treatment and foliar spray with Trichoderma viride."
+    ],
+    "monitoring": [
+      "Scout seedlings in nursery and field from tillering onwards."
+    ],
+    "water_management": [
+      "Prevent water stress in rainfed lowland or upland rice."
+    ],
+    "chemical_advisory": "Foliar spray of mancozeb (2g/L) or edifenphos (1ml/L). Consult KVK.",
+    "prevention": [
+      "Soil amendment with silicon and organic matter."
+    ],
+    "source_note": "ICAR-NRRI Cuttack Rice Pathology."
+  },
+  "rice_leaf_blast": {
+    "id": "rice_leaf_blast",
+    "crop": "Rice",
+    "display_name": "Rice Blast",
+    "raw_class": "Rice___Leaf_blast",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.95,
+    "favourable_temp_range": [
+      20.0,
+      26.0
+    ],
+    "favourable_humidity_min": 90.0,
+    "symptoms": [
+      "Spindle-shaped / diamond-shaped lesions with gray or whitish centers and brown margins",
+      "Neck blast: black necrotic collar at panicle base resulting in completely empty upright whiteheads"
+    ],
+    "cause": "Magnaporthe oryzae (Pyricularia oryzae) airborne fungus.",
+    "cultural_controls": [
+      "Avoid excess nitrogen application; split nitrogen into 3-4 doses",
+      "Avoid late planting which exposes crop to cool dewy weather"
+    ],
+    "biological_controls": [
+      "Pseudomonas fluorescens seed treatment (10g/kg) and foliar spray (0.2%)."
+    ],
+    "monitoring": [
+      "Scout lower leaves during cloudy, drizzle weather with cool nights."
+    ],
+    "water_management": [
+      "Maintain continuous shallow water layer (2-5cm) in blast-prone fields."
+    ],
+    "chemical_advisory": "Foliar spray of tricyclazole 75 WP (0.6g/L) or isoprothiolane 40 EC (1.5ml/L) at boot leaf stage. Consult KVK.",
+    "prevention": [
+      "Plant blast-resistant varieties."
+    ],
+    "source_note": "ICAR-IIRR Hyderabad Blast Advisory."
+  },
+  "rice_healthy": {
+    "id": "rice_healthy",
+    "crop": "Rice",
+    "display_name": "Healthy Rice",
+    "raw_class": "Rice___healthy",
+    "is_healthy": true,
+    "condition_type": "healthy",
+    "severity_weight": 0.0,
+    "favourable_temp_range": [
+      22.0,
+      32.0
+    ],
+    "favourable_humidity_min": 65.0,
+    "symptoms": [
+      "Erect, vibrant green tillers with clean flag leaves and healthy root crowns."
+    ],
+    "cause": "None. Crop is healthy.",
+    "cultural_controls": [
+      "Maintain balanced NPK + Zinc sulphate (25 kg/ha basal)."
+    ],
+    "biological_controls": [
+      "Encourage dragonflies and spiders as natural pest predators in paddy."
+    ],
+    "monitoring": [
+      "Monitor for stem borer dead hearts and leaf folder foldings."
+    ],
+    "water_management": [
+      "Adopt Alternate Wetting and Drying (AWD) to save water."
+    ],
+    "chemical_advisory": "No chemical required.",
+    "prevention": [
+      "Certified disease-free seed sourcing."
+    ],
+    "source_note": "ICAR-NRRI Package of Practices."
+  },
+  "wheat_brown_rust": {
+    "id": "wheat_brown_rust",
+    "crop": "Wheat",
+    "display_name": "Brown Rust / Leaf Rust",
+    "raw_class": "Wheat___Brown_rust",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.8,
+    "favourable_temp_range": [
+      20.0,
+      25.0
+    ],
+    "favourable_humidity_min": 85.0,
+    "symptoms": [
+      "Small round to oval orange-brown pustules scattered randomly across upper leaf blade",
+      "Leaves turn prematurely chlorotic and die back"
+    ],
+    "cause": "Puccinia triticina fungal urediniospores.",
+    "cultural_controls": [
+      "Timely sowing before mid-November in North Indian plains to escape temperature rise."
+    ],
+    "biological_controls": [
+      "Foliar spray of bio-formulations of Trichoderma."
+    ],
+    "monitoring": [
+      "Inspect flag leaves starting from January to February."
+    ],
+    "water_management": [
+      "Avoid evening irrigations that keep canopy moist through the night."
+    ],
+    "chemical_advisory": "Propiconazole 25 EC (1ml/L) or tebuconazole (1ml/L) upon detecting initial pustules. Consult KVK.",
+    "prevention": [
+      "Cultivate resistant varieties like DBW 187, DBW 222, or HD 3226."
+    ],
+    "source_note": "ICAR-IIWBR (Indian Institute of Wheat and Barley Research) Karnal Advisory."
+  },
+  "wheat_yellow_rust": {
+    "id": "wheat_yellow_rust",
+    "crop": "Wheat",
+    "display_name": "Yellow Rust / Stripe Rust",
+    "raw_class": "Wheat___Yellow_rust",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.9,
+    "favourable_temp_range": [
+      10.0,
+      18.0
+    ],
+    "favourable_humidity_min": 90.0,
+    "symptoms": [
+      "Bright yellow/lemon-yellow pustules arranged in continuous narrow stripes between leaf veins",
+      "Powdery yellow dust rubs off onto fingers readily"
+    ],
+    "cause": "Puccinia striiformis f. sp. tritici thriving under cool dewy conditions.",
+    "cultural_controls": [
+      "Eradicate alternate host barberry shrubs near fields in sub-mountainous zones."
+    ],
+    "biological_controls": [
+      "Bio-priming with Trichoderma."
+    ],
+    "monitoring": [
+      "Early scouting in foothill regions (Punjab, Haryana, J&K, HP) in December-January."
+    ],
+    "water_management": [
+      "Prevent lingering water droplets in canopy."
+    ],
+    "chemical_advisory": "Spray propiconazole 25 EC (1ml/L) immediately upon noticing initial foci/yellow patches. Consult KVK.",
+    "prevention": [
+      "Plant stripe-rust resistant cultivars like HD 3086 or PBW 725."
+    ],
+    "source_note": "ICAR-IIWBR Karnal Stripe Rust Warning."
+  },
+  "wheat_septoria": {
+    "id": "wheat_septoria",
+    "crop": "Wheat",
+    "display_name": "Septoria Leaf Blotch",
+    "raw_class": "Wheat___Septoria",
+    "is_healthy": false,
+    "condition_type": "fungal",
+    "severity_weight": 0.75,
+    "favourable_temp_range": [
+      15.0,
+      22.0
+    ],
+    "favourable_humidity_min": 85.0,
+    "symptoms": [
+      "Irregular rectangular chlorotic-necrotic leaf blotches with prominent black specks (pycnidia)"
+    ],
+    "cause": "Zymoseptoria tritici.",
+    "cultural_controls": [
+      "Crop rotation and stubble incorporation."
+    ],
+    "biological_controls": [
+      "Bacillus subtilis sprays."
+    ],
+    "monitoring": [
+      "Scout lower leaves during rainy vegetative stage."
+    ],
+    "water_management": [
+      "Ensure field drainage."
+    ],
+    "chemical_advisory": "Triazole or SDHI fungicides if flag leaf is threatened. Consult KVK.",
+    "prevention": [
+      "Use clean seed and resistant cultivars."
+    ],
+    "source_note": "ICAR-IIWBR Karnal."
+  },
+  "wheat_healthy": {
+    "id": "wheat_healthy",
+    "crop": "Wheat",
+    "display_name": "Healthy Wheat",
+    "raw_class": "Wheat___healthy",
+    "is_healthy": true,
+    "condition_type": "healthy",
+    "severity_weight": 0.0,
+    "favourable_temp_range": [
+      15.0,
+      24.0
+    ],
+    "favourable_humidity_min": 50.0,
+    "symptoms": [
+      "Uniform emerald foliage with healthy tillering and erect flag leaves."
+    ],
+    "cause": "None. Crop is healthy.",
+    "cultural_controls": [
+      "Apply recommended NPK (120:60:40) with split urea application."
+    ],
+    "biological_controls": [
+      "Seed inoculation with Azotobacter and PSB bio-fertilizers."
+    ],
+    "monitoring": [
+      "Scout for aphid colonies and rust signs weekly."
+    ],
+    "water_management": [
+      "Ensure 5-6 critical irrigations: Crown root initiation (CRI), tillering, jointing, flowering, milk, and dough stages."
+    ],
+    "chemical_advisory": "No chemical required.",
+    "prevention": [
+      "Optimum sowing window (first fortnight of November)."
+    ],
+    "source_note": "ICAR-IIWBR Best Management Guide."
+  },
+  "tomato_nutrient_deficiency_nitrogen": {
+    "id": "tomato_nutrient_deficiency_nitrogen",
+    "crop": "Tomato",
+    "display_name": "Nitrogen Deficiency",
+    "raw_class": "Tomato___Nutrient_Deficiency_Nitrogen",
+    "is_healthy": false,
+    "condition_type": "nutrient",
+    "severity_weight": 0.6,
+    "favourable_temp_range": [
+      18.0,
+      32.0
+    ],
+    "favourable_humidity_min": 40.0,
+    "symptoms": [
+      "General pale yellowing (chlorosis) starting on older lower leaves and moving up",
+      "Stunted plant growth, thin spindly stems, and reduced fruit size"
+    ],
+    "cause": "Insufficient available soil nitrogen (NO3- / NH4+) or severe leaching.",
+    "cultural_controls": [
+      "Apply well-decomposed farmyard manure or vermicompost to root zone",
+      "Incorporate green manure leguminous crops (dhaincha, sunnhemp) in crop rotation"
+    ],
+    "biological_controls": [
+      "Inoculate soil with Azospirillum or Azotobacter bio-fertilizers."
+    ],
+    "monitoring": [
+      "Monitor lower leaf color during vegetative and early flowering stage."
+    ],
+    "water_management": [
+      "Avoid excessive irrigation that leaches mobile nitrate below root zone."
+    ],
+    "chemical_advisory": "Foliar spray of 1% to 2% urea solution or fertigation with calcium nitrate (5g/L). Consult KVK.",
+    "prevention": [
+      "Soil testing before planting to calculate precise nitrogen demand."
+    ],
+    "source_note": "ICAR-IIHR Plant Nutrition Bulletin."
+  },
+  "potato_nutrient_deficiency_phosphorus": {
+    "id": "potato_nutrient_deficiency_phosphorus",
+    "crop": "Potato",
+    "display_name": "Phosphorus Deficiency",
+    "raw_class": "Potato___Nutrient_Deficiency_Phosphorus",
+    "is_healthy": false,
+    "condition_type": "nutrient",
+    "severity_weight": 0.55,
+    "favourable_temp_range": [
+      15.0,
+      25.0
+    ],
+    "favourable_humidity_min": 40.0,
+    "symptoms": [
+      "Dull dark green leaves developing purple or bronze pigmentation on undersides and margins",
+      "Stunted root growth, delayed tuber bulking, and small tubers with internal rust spots"
+    ],
+    "cause": "Soil phosphorus fixation in acidic or calcareous soils; low available orthophosphate.",
+    "cultural_controls": [
+      "Apply organic matter and compost to improve phosphorus mobility and reduce fixation"
+    ],
+    "biological_controls": [
+      "Soil application of Phosphate Solubilizing Bacteria (PSB) and mycorrhizal fungi (VAM)."
+    ],
+    "monitoring": [
+      "Inspect young plants at stolon initiation."
+    ],
+    "water_management": [
+      "Maintain consistent soil moisture to facilitate phosphorus diffusion to roots."
+    ],
+    "chemical_advisory": "Foliar application of 0.5% mono-potassium phosphate (0:52:34) or single super phosphate basal application. Consult KVK.",
+    "prevention": [
+      "Soil test based banded phosphorus placement near seed tuber."
+    ],
+    "source_note": "CPRI (Central Potato Research Institute) Shimla Advisory."
+  },
+  "pepper_nutrient_deficiency_calcium": {
+    "id": "pepper_nutrient_deficiency_calcium",
+    "crop": "Pepper",
+    "display_name": "Calcium Deficiency / Blossom End Rot",
+    "raw_class": "Pepper___Nutrient_Deficiency_Calcium",
+    "is_healthy": false,
+    "condition_type": "nutrient",
+    "severity_weight": 0.65,
+    "favourable_temp_range": [
+      20.0,
+      32.0
+    ],
+    "favourable_humidity_min": 40.0,
+    "symptoms": [
+      "Cupping and distortion of young leaves with scorched margins",
+      "Water-soaked sunken black leathery rot at the blossom end of pepper fruits"
+    ],
+    "cause": "Low calcium uptake driven by fluctuating soil moisture, high salinity, or excess nitrogen/potassium.",
+    "cultural_controls": [
+      "Mulch beds to maintain steady soil moisture levels; avoid soil drying between waterings"
+    ],
+    "biological_controls": [
+      "Apply humic acid to stimulate root hair calcium uptake."
+    ],
+    "monitoring": [
+      "Inspect fruit blossom ends 10-14 days after flower petal drop."
+    ],
+    "water_management": [
+      "Provide uniform, consistent drip irrigation; avoid drought cycles."
+    ],
+    "chemical_advisory": "Foliar spray of 0.5% calcium chloride or calcium nitrate directed at young foliage and fruit clusters. Consult KVK.",
+    "prevention": [
+      "Apply gypsum or agricultural lime based on soil pH."
+    ],
+    "source_note": "ICAR-IIHR Pepper Nutrition Advisory."
+  }
+}

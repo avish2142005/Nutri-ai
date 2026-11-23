@@ -1,0 +1,36 @@
+{
+  "model_parameters": 3490304,
+  "vocab_size": 1200,
+  "block_size": 128,
+  "n_layer": 4,
+  "n_head": 4,
+  "n_embd": 256,
+  "base_model": {
+    "validation_loss": 5.8295,
+    "perplexity": 340.19,
+    "token_accuracy_pct": 29.56
+  },
+  "sft_model": {
+    "validation_loss": 0.661,
+    "perplexity": 1.94,
+    "token_accuracy_pct": 86.69
+  },
+  "benchmarks": [
+    {
+      "query": "What are the symptoms and causes of Tomato Early Blight?",
+      "response": "user What are the symptoms and causes of Tomato Early Blight assistant For cotton_healthy, follow this Integrated Pest Management (IPM) plan: - Cultural: - Biological: Use Trichoderma or neem formulations - Chemical: Apply copper-based fungicides proper PPPPE Always verif"
+    },
+    {
+      "query": "How do I manage and treat Potato Late Blight using IPM methods?",
+      "response": "user How do I manage and treat Potato Late Blight using IPM methods assistant For tomato_healthy, follow this Integrated Pest Management (IPM) plan: - Cultural: Biological: Use Trichoderma or neem formulations - Chemical: Apply copper-based fungicides with proper PE Always verify do"
+    },
+    {
+      "query": "Explain Nitrogen (N) Deficiency and its management.",
+      "response": "user Explain Nitrogen (N) Deficiency and its management. assistant For banana_black_es outbreaks are favored favored by temperatures , relative humidity above , and exceeding hours."
+    },
+    {
+      "query": "What weather conditions trigger Tomato Late Blight outbreaks?",
+      "response": "user What weather conditions trigger Tomato Late Blight outbreaks assistant cotton_healthy outbreaks are favored by favored by temperatures between , relative above , and exceeding hours."
+    }
+  ]
+}

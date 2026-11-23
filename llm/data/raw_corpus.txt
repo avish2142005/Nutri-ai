@@ -1,0 +1,715 @@
+Disease Profile: tomato_early_blight ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Dark brown to black spots with concentric rings (target-like pattern) on older lower leaves.', 'Yellowing (chlorosis) halo surrounding leaf lesions.', 'Premature defoliation starting from the bottom of the canopy upward.', 'Sunken, dark leathery lesions at the stem end of fruits.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: tomato_late_blight ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Large, irregular water-soaked pale-to-brown lesions on leaves and stems.', 'White fungal-like fuzzy growth on the underside of leaves during cool, humid mornings.', 'Rapidly browning and collapsing foliage; field appears frost-damaged.', 'Firm, dark brown greasy lesions expanding across green or ripening fruit.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: tomato_leaf_mold ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Pale green to yellowish patches on upper leaf surfaces.', 'Olive-green to grayish velvety fungal mold growth on corresponding lower leaf surfaces.', 'Infected leaves wither, turn brown, and drop prematurely.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: tomato_septoria_leaf_spot ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Numerous small (2-3 mm) circular spots with dark brown margins and gray or tan centers.', 'Tiny black pinhead-like pycnidia specks visible inside lesion centers.', 'Progressive yellowing and dropping of lower leaves, exposing fruit to sunscald.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: tomato_bacterial_spot ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Small, dark, greasy or water-soaked circular spots on leaves.', 'Spots turn purplish-brown with yellow halos and ragged margins.', 'Crabby, blister-like raised scabby spots on green fruits.', 'Extensive leaf blighting and blossom drop during warm rainy weather.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: tomato_target_spot ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Pinpoint brown spots expanding into circular lesions with light brown centers.', 'Dark concentric rings resembling target boards on leaves and stems.', 'Severe premature defoliation in lower and middle canopies.', 'Deep, sunken brown crater-like rot on ripening fruit.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: tomato_yellow_leaf_curl_virus ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Severe upward cupping, rolling, and reduction in leaf size.', 'Interveinal yellowing (chlorosis) and pale green young foliage.', "Marked plant stunting with a bushy, erect 'bonsai' appearance.", 'Flower abortion and failure to set marketable fruit.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: tomato_mosaic_virus ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Mottling of light and dark green patterns on leaves (mosaic pattern).', "Distortion, blistering, and stringy 'shoestring' narrowing of leaflets.", 'Stunted growth and poor overall canopy vigor.', 'Brown internal browning and uneven ripening of fruits.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: tomato_healthy ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Vibrant green leaves with uniform coloration and no necrotic spots or chlorosis.', 'Firm, well-developed stems and robust growing tips.', 'Normal flower cluster development and healthy fruit set.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: potato_early_blight ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Small dark brown to black spots with concentric rings on older bottom leaves.', 'Leaf tissue between veins turns yellow and dies, causing premature vine senescence.', 'Brown corky dry rot in potato tubers with sunken margins.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: potato_late_blight ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Water-soaked dark brownish-purple patches on leaves and petioles.', 'Delicate white fungal down on the lower surface of leaves under wet conditions.', 'Stem lesions causing entire vines to collapse within days.', 'Reddish-brown granular dry rot spreading inward beneath tuber skin.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: potato_healthy ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Vigorous green foliage with even leaf expansion.', 'Clean stems free of brown necrosis or water-soaking.', 'Normal flowering and healthy underground tuberization.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: pepper_bacterial_spot ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Small, circular or irregular water-soaked spots on leaves.', 'Lesions enlarge to 3-5 mm, turning dark brown with a distinct yellow halo.', 'Leaves turn yellow and shed, causing severe defoliation and sunburn to fruit.', 'Warty, raised, scab-like spots on green bell peppers.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: pepper_healthy ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Glossy, deep green leaves with crisp texture and no chlorosis.', 'Sturdy upright branches supporting flowers and developing fruits.', 'Smooth fruit surfaces free of scabs, sunscald, or rot.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: apple_apple_scab ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Olive-green to brown velvety lesions on leaf surfaces', 'Cracked, scabby brown fruit spots']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: apple_black_rot ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Frog-eye leaf spots with purple borders', 'Black rotting mummified fruit on tree branches']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: apple_cedar_apple_rust ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Bright yellow-orange spots on upper leaf surfaces', 'Tube-like aecia structures on underside of leaves']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: apple_healthy ().
+Type: Healthy pathogen affecting crops including .
+Symptoms: ['Lush green, unblemished foliage with optimal chlorophyll density.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: banana_black_sigatoka ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Reddish-brown narrow streaks parallel to leaf veins, expanding into black necrotic patches', 'Premature bunch ripening and severe leaf collapse']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: banana_panama_wilt ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Yellowing of lower leaf margins progressing inward', 'Petiole buckling and skirt of dead leaves clinging to pseudostem', 'Vascular discoloration (red-brown ring) inside pseudostem']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: banana_healthy ().
+Type: Healthy pathogen affecting crops including .
+Symptoms: ['Broad, glossy emerald leaves with strong erect petioles.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: brinjal_bacterial_wilt ().
+Type: Bacterial pathogen affecting crops including .
+Symptoms: ['Sudden daytime wilting of plant while leaves remain green', 'Milky bacterial ooze stream when cut stem is placed in clear water']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: brinjal_phomopsis_blight ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Circular buff to brown spots on leaves containing minute black pycnidia', 'Sunken, dry rotting lesions on brinjal fruits']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: brinjal_healthy ().
+Type: Healthy pathogen affecting crops including .
+Symptoms: ['Vibrant lobed green leaves without mottling or necrosis; healthy purple/white flower buds.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: chilli_anthracnose ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Circular sunken lesions on green or ripe fruits with concentric rings of salmon-pink acervuli', 'Small circular necrotic spots on leaves and dieback of twigs from top downward']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: chilli_bacterial_leaf_spot ().
+Type: Bacterial pathogen affecting crops including .
+Symptoms: ['Small water-soaked blisters turning brown with yellow halos', 'Severe defoliation leading to sun-scald on exposed fruits']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: chilli_healthy ().
+Type: Healthy pathogen affecting crops including .
+Symptoms: ['Glossy dark green lanceolate leaves with vigorous branching and abundant flowering.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: corn_cercospora_leaf_spot ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Rectangular brown to tan lesions restricted between leaf veins', 'Lesions coalesce to cause severe blighting of maize canopy']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: corn_common_rust ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Oval to elongate cinnamon-brown pustules on both upper and lower leaf surfaces', 'Pustules rupture epidermal tissue releasing powdery spores']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: corn_northern_leaf_blight ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Long, elliptical, cigar-shaped grayish-green to tan lesions (2 to 15 cm long)', 'Dark olive fuzz of spores visible inside lesions under damp weather']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: corn_healthy ().
+Type: Healthy pathogen affecting crops including .
+Symptoms: ['Broad deep-green leaves with sturdy stalks and well-developed brace roots.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: cotton_bacterial_blight ().
+Type: Bacterial pathogen affecting crops including .
+Symptoms: ['Water-soaked angular leaf spots bounded by veinlets', 'Black lesions along main veins (black arm) and sunken water-soaked spots on bolls']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: cotton_fusarium_wilt ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Yellowing and browning along leaf margins progressing inward', 'Petiole and leaf drop starting from bottom; dark brown ring in stem vascular xylem']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: cotton_healthy ().
+Type: Healthy pathogen affecting crops including .
+Symptoms: ['Robust dark green palmate leaves with vigorous sympodial branching and healthy squares.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: grape_black_rot ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Circular reddish-brown leaf spots with dark margins and tiny black pycnidia', 'Berries turn brown, shrivel into hard, black wrinkled mummies']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: grape_esca_black_measles ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Tiger-stripe leaf pattern: interveinal yellow and necrotic brown bands with green veins', 'Dark purple/black speckling on berry skins (measles)']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: grape_leaf_blight ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Large irregular brown patches with darker borders on mature foliage', 'Premature defoliation resulting in berry sun-scald and poor sugar accumulation']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: grape_healthy ().
+Type: Healthy pathogen affecting crops including .
+Symptoms: ['Lush broad green leaves with healthy tendrils and clean developing clusters.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: rice_bacterial_leaf_blight ().
+Type: Bacterial pathogen affecting crops including .
+Symptoms: ['Water-soaked stripes starting from leaf tips and margins with wavy edges', 'Lesions turn yellow to straw-white; bacterial amber beads on morning leaves']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: rice_brown_spot ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Oval or circular brown lesions with yellow halo evenly scattered over leaves', 'Dark brown spots on glumes causing grain discoloration and unfilled grains']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: rice_leaf_blast ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Spindle-shaped / diamond-shaped lesions with gray or whitish centers and brown margins', 'Neck blast: black necrotic collar at panicle base resulting in completely empty upright whiteheads']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: rice_healthy ().
+Type: Healthy pathogen affecting crops including .
+Symptoms: ['Erect, vibrant green tillers with clean flag leaves and healthy root crowns.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: wheat_brown_rust ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Small round to oval orange-brown pustules scattered randomly across upper leaf blade', 'Leaves turn prematurely chlorotic and die back']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: wheat_yellow_rust ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Bright yellow/lemon-yellow pustules arranged in continuous narrow stripes between leaf veins', 'Powdery yellow dust rubs off onto fingers readily']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: wheat_septoria ().
+Type: Fungal pathogen affecting crops including .
+Symptoms: ['Irregular rectangular chlorotic-necrotic leaf blotches with prominent black specks (pycnidia)']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: wheat_healthy ().
+Type: Healthy pathogen affecting crops including .
+Symptoms: ['Uniform emerald foliage with healthy tillering and erect flag leaves.']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: tomato_nutrient_deficiency_nitrogen ().
+Type: Nutrient pathogen affecting crops including .
+Symptoms: ['General pale yellowing (chlorosis) starting on older lower leaves and moving up', 'Stunted plant growth, thin spindly stems, and reduced fruit size']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: potato_nutrient_deficiency_phosphorus ().
+Type: Nutrient pathogen affecting crops including .
+Symptoms: ['Dull dark green leaves developing purple or bronze pigmentation on undersides and margins', 'Stunted root growth, delayed tuber bulking, and small tubers with internal rust spots']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+Disease Profile: pepper_nutrient_deficiency_calcium ().
+Type: Nutrient pathogen affecting crops including .
+Symptoms: ['Cupping and distortion of young leaves with scorched margins', 'Water-soaked sunken black leathery rot at the blossom end of pepper fruits']
+Environmental Triggers: Optimal temperature range is , relative humidity above , requiring  hours of leaf wetness and .
+Integrated Pest Management (IPM) Strategy:
+1. Cultural Controls: Maintain field hygiene and crop rotation.
+2. Biological Controls: Apply Trichoderma viride or neem formulation.
+3. Chemical Controls: Consult local agricultural extension.
+4. Prevention: Use certified disease-resistant seeds.
+
+
+# IPM and Crop Disease Knowledge Base
+
+## Tomato Early Blight (Alternaria solani)
+**Pathogen:** Alternaria solani (fungus)
+**Conditions:** Favoured by warm temperatures (24–29°C), high humidity (>80%), and prolonged leaf wetness.
+
+### Identification
+- Dark brown/black lesions with concentric rings (target-board pattern) on older lower leaves
+- Yellow halo around lesions
+- Lesions coalesce; severe defoliation follows
+
+### IPM Recommendations (Priority Order)
+1. **Cultural (first line):** Remove and destroy infected leaf debris. Mulch base to reduce splash dispersal. Increase plant spacing for air flow. Avoid overhead irrigation; use drip.
+2. **Biological:** Apply Trichoderma viride or Bacillus subtilis-based bio-fungicides. Spray 5% Neem Seed Kernel Extract (NSKE).
+3. **Monitoring:** Scout weekly. Track humidity; spray before symptom spread if risk is high.
+4. **Chemical Advisory (last resort):** Copper oxychloride, Mancozeb, or Azoxystrobin-based fungicides may be considered. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.
+
+---
+
+## Tomato Late Blight (Phytophthora infestans)
+**Pathogen:** Phytophthora infestans (oomycete)
+**Conditions:** Cool temperatures (10–20°C), high humidity (>90%), cool nights.
+
+### Identification
+- Water-soaked, greasy-looking lesions on leaves, stems, and fruits
+- White sporulation on undersides during humid mornings
+- Spreads rapidly in cool, wet weather
+
+### IPM Recommendations (Priority Order)
+1. **Cultural:** Plant certified disease-free seed. Use raised beds for drainage. Destroy volunteer plants and infected debris promptly.
+2. **Biological:** Copper-based bactericides/fungicides (copper hydroxide) have moderate efficacy and are OMRI-listed for organic use.
+3. **Monitoring:**
+
+ty Order)
+1. **Cultural:** Plant certified disease-free seed. Use raised beds for drainage. Destroy volunteer plants and infected debris promptly.
+2. **Biological:** Copper-based bactericides/fungicides (copper hydroxide) have moderate efficacy and are OMRI-listed for organic use.
+3. **Monitoring:** Use Blitecast or Smith Periods models to time sprays. Monitor weather forecasts for infection periods.
+4. **Chemical Advisory:** Metalaxyl + Mancozeb, Cymoxanil combinations. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.
+
+---
+
+## Tomato Leaf Mold (Fulvia fulva)
+**Pathogen:** Fulvia fulva (fungus)
+**Conditions:** High humidity (>85%), poor air circulation, greenhouse conditions.
+
+### Identification
+- Pale yellow spots on upper leaf surface
+- Olive-green to brown velvety fungal growth on lower surface
+
+### IPM Recommendations (Priority Order)
+1. **Cultural:** Reduce humidity by improving ventilation. Reduce plant density.
+2. **Biological:** Neem-based spray, Bacillus subtilis applications.
+3. **Chemical Advisory:** Chlorothalonil, Mancozeb. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.
+
+---
+
+## Tomato Yellow Leaf Curl Virus (TYLCV)
+**Pathogen:** Tomato Yellow Leaf Curl Virus (Begomovirus) — transmitted by whitefly (Bemisia tabaci)
+**Conditions:** Dry, hot weather promotes whitefly populations.
+
+### Identification
+- Upward curling and yellowing of young leaves
+- Stunted plant growth
+- Flowers drop; fruit set severely reduced
+
+### IPM Recommendations (Priority Order)
+1. **Cultural:** Use virus-resistant/tolerant varieties. Remove infected plants immediately. Use yellow sticky traps for monitoring.
+2. **Biological:** Encourage natural enemies of wh
+
+g leaves
+- Stunted plant growth
+- Flowers drop; fruit set severely reduced
+
+### IPM Recommendations (Priority Order)
+1. **Cultural:** Use virus-resistant/tolerant varieties. Remove infected plants immediately. Use yellow sticky traps for monitoring.
+2. **Biological:** Encourage natural enemies of whitefly (Encarsia, Eretmocerus parasitoids). Apply neem oil (2–3%) to deter feeding.
+3. **Monitoring:** Count whitefly adults per leaf; apply threshold-based decisions (>5 adults/leaf = action required).
+4. **Chemical Advisory (vector control):** Imidacloprid soil drench for whitefly if pressure is severe. Rotate modes of action. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.
+
+---
+
+## Tomato Bacterial Spot (Xanthomonas spp.)
+**Pathogen:** Xanthomonas vesicatoria (bacteria)
+**Conditions:** Warm (24–30°C), wet weather; overhead irrigation promotes spread.
+
+### Identification
+- Small, dark, water-soaked spots on leaves, stems, and fruit
+- Spots turn brown with yellow halos
+- Fruit spots are raised, scab-like
+
+### IPM Recommendations (Priority Order)
+1. **Cultural:** Avoid overhead irrigation. Use certified pathogen-free seed. Practice 2–3 year crop rotation.
+2. **Biological:** Copper hydroxide (OMRI-listed) applications. Bacillus subtilis-based products.
+3. **Chemical Advisory:** Copper bactericides combined with mancozeb. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.
+
+---
+
+## Powdery Mildew (general)
+**Pathogen:** Various obligate fungi (Leveillula taurica on tomatoes; Erysiphe spp. on cucurbits)
+**Conditions:** Warm days (20–30°C), cool nights; low humidity (unlike most fungi).
+
+### Identification
+- White powdery fungal coating on leaf surface
+- L
+
+al treatment.
+
+---
+
+## Powdery Mildew (general)
+**Pathogen:** Various obligate fungi (Leveillula taurica on tomatoes; Erysiphe spp. on cucurbits)
+**Conditions:** Warm days (20–30°C), cool nights; low humidity (unlike most fungi).
+
+### Identification
+- White powdery fungal coating on leaf surface
+- Leaves curl and turn yellow
+
+### IPM Recommendations (Priority Order)
+1. **Cultural:** Use resistant varieties. Improve ventilation. Remove badly infected leaves.
+2. **Biological:** Spray potassium bicarbonate (5g/L), sulfur-based organic fungicides, Neem oil.
+3. **Chemical Advisory:** Triadimefon, Hexaconazole. Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.
+
+---
+
+## General IPM Principles
+- **Scouting:** Regular (weekly) scouting is the foundation of IPM. Record pest and disease levels; act on Economic Threshold Levels (ETL), not prophylactically.
+- **Cultural Controls:** Crop rotation, resistant varieties, sanitation, proper spacing, and avoiding overhead irrigation reduce disease pressure significantly.
+- **Biological Controls:** Natural enemies, bio-fungicides (Trichoderma, Bacillus subtilis), and botanical extracts (neem) are the first choice after cultural methods.
+- **Chemical Controls:** Only as last resort when threshold is exceeded. Always use least-toxic, targeted options. Rotate modes of action (FRAC/IRAC codes) to avoid resistance.
+- **Safety First:** Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.
+
+igyan Kendra (KVK) before applying any chemical treatment.
+
+# Sustainable Agriculture Practices
+## Integrated Pest Management (IPM)
+Integrated Pest Management (IPM) is an effective and environmentally sensitive approach to pest management that relies on a combination of common-sense practices. IPM programs use current, comprehensive information on the life cycles of pests and their interaction with the environment. This information, in combination with available pest control methods, is used to manage pest damage by the most economical means, and with the least possible hazard to people, property, and the environment.
+
+## Crop Rotation
+Crop rotation is the practice of planting different crops sequentially on the same plot of land to improve soil health, optimize nutrients in the soil, and combat pest and weed pressure. For example, say a farmer has planted a field of corn. When the corn harvest is finished, he might plant beans, since corn consumes a lot of nitrogen and beans return nitrogen to the soil.
+
+## Organic Practices
+Organic agriculture is a production system that sustains the health of soils, ecosystems, and people. It relies on ecological processes, biodiversity and cycles adapted to local conditions, rather than the use of inputs with adverse effects.
+
+## Irrigation Scheduling
+Proper irrigation scheduling is critical for water conservation and crop health. Over-watering can lead to root rot and fungal diseases like late blight or powdery mildew. Under-watering stresses the plants, making them more susceptible to pests and reducing yield. Using soil moisture sensors and monitoring weather forecasts (rain probability) can help determine the optimal time to irrigate. 
+
+## Soil Health and Nutrient Management
+Healthy soil is the foundation of sustainable agriculture. Adding organic matter, like compost or well-rotted manu
+
+reducing yield. Using soil moisture sensors and monitoring weather forecasts (rain probability) can help determine the optimal time to irrigate. 
+
+## Soil Health and Nutrient Management
+Healthy soil is the foundation of sustainable agriculture. Adding organic matter, like compost or well-rotted manure, improves soil structure, water retention, and microbial activity. Nitrogen, Phosphorus, and Potassium (NPK) are the primary macronutrients needed by plants. However, excessive use of synthetic fertilizers can lead to nutrient runoff and environmental pollution.
+
+## Disease Prevention
+Preventing diseases is often more effective than treating them. Key practices include:
+1. Planting disease-resistant varieties.
+2. Ensuring adequate spacing between plants to improve air circulation and reduce humidity.
+3. Watering at the base of the plant (drip irrigation) rather than overhead to keep leaves dry.
+4. Promptly removing and destroying infected plant debris.
+
+> **Note**: Confirm with your local agriculture officer / Krishi Vigyan Kendra (KVK) before applying any chemical treatment.
+
+Nitrogen (N) Deficiency: Characterized by general yellowing (chlorosis) of older lower leaves first, stunted vegetative growth, and thin stems. Remediation: Apply urea top-dressing (25-30 kg/ha) or neem-coated urea, supplemented with organic compost.
+
+Phosphorus (P) Deficiency: Manifests as dark green to purplish anthocyanin pigmentation along leaf veins and petioles, delayed maturity, and poor root development. Remediation: Band application of Single Superphosphate (SSP) or Diammonium Phosphate (DAP) at root zone.
+
+Calcium (Ca) Deficiency: Causes apical blossom-end rot in tomatoes, tip-burn in leafy greens, and distorted growing shoot tips due to poor cell wall pectate synthesis. Remediation: Foliar spray of calcium nitrate (0.5%) and maintaining uniform soil moisture.
+
+Soil Moisture and Smart Irrigation: Sandy loam soils require frequent light irrigations (40-60% field capacity), while clay soils need deeper, less frequent watering to prevent root hypoxia. Drip irrigation saves 40-50% water and minimizes leaf wetness that triggers fungal pathogens.
+
+Satellite NDVI Vegetation Monitoring: Normalized Difference Vegetation Index (NDVI) is computed as (NIR - Red) / (NIR + Red). Values between 0.6 and 0.8 indicate vigorous green biomass. Drops below 0.35 signify severe drought stress, waterlogging, or pest infestation.
+
+Integrated Pest Management (IPM) Principles: IPM combines cultural sanitation, physical barriers, biological antagonists (Trichoderma, Bacillus subtilis, Chrysoperla), economic threshold scouting, and judicious chemical application as a last resort to minimize environmental toxicity.
+
+Weather and Plant Epidemiology: High relative humidity (>80%) combined with temperatures between 20-28°C accelerates conidial germination and zoospore mobility in blights. Wind gusts above 15 km/h disperse fungal spores across neighboring plots.

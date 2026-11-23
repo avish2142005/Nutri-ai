@@ -1,0 +1,94 @@
+# ==============================================================================
+# KrishiNetra Root .gitignore
+# Strictly excludes all sensitive credentials, secret keys, local databases,
+# large ML binary checkpoints (>100MB), virtual environments, and node modules.
+# ==============================================================================
+
+# --- Sensitive Environment & Secret Files ---
+.env
+*.env
+.env.*
+!.env.example
+secrets/
+credentials/
+*.pem
+*.key
+*.cert
+*.pfx
+*.p12
+
+# --- Databases & Local Storage ---
+*.db
+*.sqlite
+*.sqlite3
+farmai.db
+farmai/backend/farmai.db
+farmai/backend/uploads/*
+!farmai/backend/uploads/.gitkeep
+
+# --- Large Model Checkpoints & Raw Datasets (>50MB / GitHub limits) ---
+models/weights/*.pth
+models/weights/*.pt
+models/weights/*.bin
+models/weights/*.onnx
+models/weights/*.h5
+models/weights/*.keras
+!models/weights/.gitkeep
+dataset/
+*.zip
+*.tar
+*.tar.gz
+
+# --- Python Virtual Environments & Packages ---
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Python Caches & Build Artifacts ---
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.mypy_cache/
+
+# --- Node & Frontend Build Dependencies ---
+node_modules/
+farmai/frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+farmai/frontend/.vite/
+
+# --- Temporary Local Inspection / DOM Dumps / Screenshots ---
+/live_dom_dump.html
+/live_auth_dom.html
+/live_preview.png
+/dump_*.py
+/test_*.py
+/check_*.py
+auth_lang_verified.png
+camera_dashboard_verified.png
+camera_buttons_english.png
+satellite_verified_screenshot.png
+
+# --- OS & Editor Specific Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo

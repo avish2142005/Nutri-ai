@@ -1,0 +1,5666 @@
+{
+  "token_to_id": {
+    "<|pad|>": 0,
+    "<|unk|>": 1,
+    "<|bos|>": 2,
+    "<|eos|>": 3,
+    "<|im_start|>": 4,
+    "<|im_end|>": 5,
+    "\"": 6,
+    "#": 7,
+    "%": 8,
+    "'": 9,
+    "(": 10,
+    ")": 11,
+    "*": 12,
+    "+": 13,
+    ",": 14,
+    "-": 15,
+    ".": 16,
+    "/": 17,
+    "0": 18,
+    "1": 19,
+    "2": 20,
+    "3": 21,
+    "4": 22,
+    "5": 23,
+    "6": 24,
+    "8": 25,
+    "9": 26,
+    ":": 27,
+    ";": 28,
+    "=": 29,
+    ">": 30,
+    "A": 31,
+    "B": 32,
+    "C": 33,
+    "D": 34,
+    "E": 35,
+    "F": 36,
+    "G": 37,
+    "H": 38,
+    "I": 39,
+    "K": 40,
+    "L": 41,
+    "M": 42,
+    "N": 43,
+    "O": 44,
+    "P": 45,
+    "R": 46,
+    "S": 47,
+    "T": 48,
+    "U": 49,
+    "V": 50,
+    "W": 51,
+    "X": 52,
+    "Y": 53,
+    "[": 54,
+    "]": 55,
+    "_": 56,
+    "a": 57,
+    "b": 58,
+    "c": 59,
+    "d": 60,
+    "e": 61,
+    "f": 62,
+    "g": 63,
+    "h": 64,
+    "i": 65,
+    "j": 66,
+    "k": 67,
+    "l": 68,
+    "m": 69,
+    "n": 70,
+    "o": 71,
+    "p": 72,
+    "q": 73,
+    "r": 74,
+    "s": 75,
+    "t": 76,
+    "u": 77,
+    "v": 78,
+    "w": 79,
+    "x": 80,
+    "y": 81,
+    "z": 82,
+    "°": 83,
+    "Ġ": 84,
+    "–": 85,
+    "—": 86,
+    "on": 87,
+    "at": 88,
+    "al": 89,
+    "in": 90,
+    "ro": 91,
+    "an": 92,
+    "en": 93,
+    "re": 94,
+    "er": 95,
+    "se": 96,
+    "ic": 97,
+    "ion": 98,
+    "ing": 99,
+    "es": 100,
+    "em": 101,
+    "ul": 102,
+    "ed": 103,
+    "le": 104,
+    "ur": 105,
+    "or": 106,
+    "Con": 107,
+    "ent": 108,
+    "lo": 109,
+    "ir": 110,
+    "and": 111,
+    "it": 112,
+    "is": 113,
+    "ho": 114,
+    "ult": 115,
+    "ation": 116,
+    "ve": 117,
+    "ls": 118,
+    "tro": 119,
+    "fi": 120,
+    "Contro": 121,
+    "Controls": 122,
+    "id": 123,
+    "af": 124,
+    "ti": 125,
+    "ical": 126,
+    "ag": 127,
+    "ric": 128,
+    "to": 129,
+    "ase": 130,
+    "ar": 131,
+    "ig": 132,
+    "rop": 133,
+    "ain": 134,
+    "ise": 135,
+    "ural": 136,
+    "vir": 137,
+    "ultural": 138,
+    "isease": 139,
+    "ct": 140,
+    "eg": 141,
+    "rat": 142,
+    "un": 143,
+    "el": 144,
+    "crop": 145,
+    "of": 146,
+    "pp": 147,
+    "th": 148,
+    "leaf": 149,
+    "ly": 150,
+    "ure": 151,
+    "ant": 152,
+    "der": 153,
+    "st": 154,
+    "et": 155,
+    "res": 156,
+    "ity": 157,
+    "um": 158,
+    "rot": 159,
+    "ist": 160,
+    "pe": 161,
+    "io": 162,
+    "ment": 163,
+    "ers": 164,
+    "mp": 165,
+    "ab": 166,
+    "tom": 167,
+    "gen": 168,
+    "rig": 169,
+    "est": 170,
+    "hem": 171,
+    "hemical": 172,
+    "mal": 173,
+    "IP": 174,
+    "IPM": 175,
+    "for": 176,
+    "cal": 177,
+    "fe": 178,
+    "ot": 179,
+    "ne": 180,
+    "log": 181,
+    "pply": 182,
+    "ex": 183,
+    "ive": 184,
+    "pat": 185,
+    "ac": 186,
+    "ature": 187,
+    "hum": 188,
+    "humid": 189,
+    "iolog": 190,
+    "ide": 191,
+    "agric": 192,
+    "fect": 193,
+    "hy": 194,
+    "iological": 195,
+    "hogen": 196,
+    "lu": 197,
+    "per": 198,
+    "humidity": 199,
+    "Man": 200,
+    "Cultural": 201,
+    "Biological": 202,
+    "local": 203,
+    "Use": 204,
+    "ung": 205,
+    "ma": 206,
+    "ens": 207,
+    "row": 208,
+    "ran": 209,
+    "qu": 210,
+    "In": 211,
+    "ement": 212,
+    "St": 213,
+    "Chemical": 214,
+    "disease": 215,
+    "ding": 216,
+    "low": 217,
+    "ge": 218,
+    "agement": 219,
+    "ien": 220,
+    "resist": 221,
+    "co": 222,
+    "Pre": 223,
+    "viron": 224,
+    "vironment": 225,
+    "pti": 226,
+    "lat": 227,
+    "ove": 228,
+    "wet": 229,
+    "Management": 230,
+    "eld": 231,
+    "form": 232,
+    "ulation": 233,
+    "vent": 234,
+    "cer": 235,
+    "resistant": 236,
+    "inc": 237,
+    "En": 238,
+    "requ": 239,
+    "ess": 240,
+    "Int": 241,
+    "fied": 242,
+    "sp": 243,
+    "vironmental": 244,
+    "ptimal": 245,
+    "tem": 246,
+    "temper": 247,
+    "temperature": 248,
+    "Integ": 249,
+    "Integrat": 250,
+    "Integrated": 251,
+    "Pest": 252,
+    "field": 253,
+    "rotation": 254,
+    "Apply": 255,
+    "Tric": 256,
+    "Tricho": 257,
+    "Trichoder": 258,
+    "Trichoderma": 259,
+    "neem": 260,
+    "certi": 261,
+    "certified": 262,
+    "seed": 263,
+    "Disease": 264,
+    "Pro": 265,
+    "pathogen": 266,
+    "ymp": 267,
+    "wit": 268,
+    "wetn": 269,
+    "wetness": 270,
+    "tain": 271,
+    "ext": 272,
+    "Prevent": 273,
+    "crops": 274,
+    "inclu": 275,
+    "ymptom": 276,
+    "with": 277,
+    "rigg": 278,
+    "riggers": 279,
+    "relat": 280,
+    "relative": 281,
+    "above": 282,
+    "aintain": 283,
+    "viride": 284,
+    "Prevention": 285,
+    "Profi": 286,
+    "Profile": 287,
+    "Ty": 288,
+    "Type": 289,
+    "affect": 290,
+    "affecting": 291,
+    "including": 292,
+    "Symptom": 293,
+    "Symptoms": 294,
+    "av": 295,
+    "Environmental": 296,
+    "Triggers": 297,
+    "Optimal": 298,
+    "range": 299,
+    "requir": 300,
+    "requiring": 301,
+    "hour": 302,
+    "hours": 303,
+    "Strat": 304,
+    "Strateg": 305,
+    "Strategy": 306,
+    "Maintain": 307,
+    "hyg": 308,
+    "hygien": 309,
+    "hygiene": 310,
+    "formulation": 311,
+    "Cons": 312,
+    "Consult": 313,
+    "agricultural": 314,
+    "extens": 315,
+    "extension": 316,
+    "seeds": 317,
+    "aves": 318,
+    "ungal": 319,
+    "rown": 320,
+    "il": 321,
+    "ra": 322,
+    "bl": 323,
+    "leaves": 324,
+    "brown": 325,
+    "ol": 326,
+    "he": 327,
+    "alth": 328,
+    "ions": 329,
+    "ri": 330,
+    "Fungal": 331,
+    "ef": 332,
+    "ru": 333,
+    "ellow": 334,
+    "gre": 335,
+    "us": 336,
+    "althy": 337,
+    "spot": 338,
+    "the": 339,
+    "so": 340,
+    "igh": 341,
+    "ch": 342,
+    "green": 343,
+    "ad": 344,
+    "ato": 345,
+    "les": 346,
+    "yellow": 347,
+    "ark": 348,
+    "act": 349,
+    "ack": 350,
+    "ruit": 351,
+    "lant": 352,
+    "mo": 353,
+    "ight": 354,
+    "spots": 355,
+    "fruit": 356,
+    "li": 357,
+    "ater": 358,
+    "ins": 359,
+    "de": 360,
+    "end": 361,
+    "ular": 362,
+    "ish": 363,
+    "ut": 364,
+    "con": 365,
+    "as": 366,
+    "plant": 367,
+    "healthy": 368,
+    "lesions": 369,
+    "ia": 370,
+    "acter": 371,
+    "we": 372,
+    "ate": 373,
+    "fic": 374,
+    "black": 375,
+    "ial": 376,
+    "lower": 377,
+    "dark": 378,
+    "pper": 379,
+    "com": 380,
+    "arg": 381,
+    "stem": 382,
+    "water": 383,
+    "po": 384,
+    "red": 385,
+    "wh": 386,
+    "ato_": 387,
+    "ke": 388,
+    "ter": 389,
+    "urn": 390,
+    "ce": 391,
+    "pro": 392,
+    "ore": 393,
+    "blight": 394,
+    "like": 395,
+    "sur": 396,
+    "oli": 397,
+    "her": 398,
+    "ak": 399,
+    "app": 400,
+    "acterial": 401,
+    "br": 402,
+    "su": 403,
+    "He": 404,
+    "soak": 405,
+    "age": 406,
+    "turn": 407,
+    "ted": 408,
+    "tre": 409,
+    "mon": 410,
+    "fung": 411,
+    "ulture": 412,
+    "ros": 413,
+    "ard": 414,
+    "ather": 415,
+    "soaked": 416,
+    "grow": 417,
+    "surf": 418,
+    "surfac": 419,
+    "cor": 420,
+    "irc": 421,
+    "vere": 422,
+    "ze": 423,
+    "yo": 424,
+    "ca": 425,
+    "Healthy": 426,
+    "use": 427,
+    "base": 428,
+    "om": 429,
+    "utri": 430,
+    "utrient": 431,
+    "ides": 432,
+    "ations": 433,
+    "fir": 434,
+    "agriculture": 435,
+    "treat": 436,
+    "tomato_": 437,
+    "ite": 438,
+    "ray": 439,
+    "marg": 440,
+    "margins": 441,
+    "sun": 442,
+    "by": 443,
+    "ver": 444,
+    "Le": 445,
+    "ry": 446,
+    "dit": 447,
+    "ditions": 448,
+    "_healthy": 449,
+    "Or": 450,
+    "irrig": 451,
+    "itor": 452,
+    "bef": 453,
+    "before": 454,
+    "yan": 455,
+    "apply": 456,
+    "chemical": 457,
+    "treatment": 458,
+    "soil": 459,
+    "_blight": 460,
+    "cent": 461,
+    "ring": 462,
+    "tern": 463,
+    "chlo": 464,
+    "def": 465,
+    "ting": 466,
+    "fruits": 467,
+    "stems": 468,
+    "fungal": 469,
+    "growth": 470,
+    "ap": 471,
+    "ll": 472,
+    "rip": 473,
+    "mall": 474,
+    "ircular": 475,
+    "pot": 476,
+    "redu": 477,
+    "ust": 478,
+    "ay": 479,
+    "Vig": 480,
+    "Re": 481,
+    "anic": 482,
+    "icides": 483,
+    "itoring": 484,
+    "Kend": 485,
+    "Kendra": 486,
+    "KV": 487,
+    "KVK": 488,
+    "applying": 489,
+    "any": 490,
+    "rosis": 491,
+    "mature": 492,
+    "can": 493,
+    "fected": 494,
+    "_leaf": 495,
+    "vis": 496,
+    "ress": 497,
+    "bacterial": 498,
+    "sc": 499,
+    "weather": 500,
+    "nec": 501,
+    "rotic": 502,
+    "lop": 503,
+    "enti": 504,
+    "und": 505,
+    "severe": 506,
+    "ong": 507,
+    "me": 508,
+    "cy": 509,
+    "Order": 510,
+    "based": 511,
+    "ract": 512,
+    "Ad": 513,
+    "Confir": 514,
+    "Confirm": 515,
+    "your": 516,
+    "offic": 517,
+    "officer": 518,
+    "Kr": 519,
+    "Krish": 520,
+    "Krishi": 521,
+    "Vigyan": 522,
+    "ganic": 523,
+    "pest": 524,
+    "hal": 525,
+    "halo": 526,
+    "op": 527,
+    "ward": 528,
+    "ken": 529,
+    "gular": 530,
+    "under": 531,
+    "ches": 532,
+    "ty": 533,
+    "_spot": 534,
+    "head": 535,
+    "Small": 536,
+    "pur": 537,
+    "purp": 538,
+    "arm": 539,
+    "rain": 540,
+    "si": 541,
+    "over": 542,
+    "ell": 543,
+    "deve": 544,
+    "develop": 545,
+    "veins": 546,
+    "sy": 547,
+    "eti": 548,
+    "eral": 549,
+    "min": 550,
+    "corn": 551,
+    "wder": 552,
+    "wdery": 553,
+    "root": 554,
+    "ast": 555,
+    "Pat": 556,
+    "Pathogen": 557,
+    "Conditions": 558,
+    "Id": 559,
+    "Identi": 560,
+    "Identific": 561,
+    "Identification": 562,
+    "Recom": 563,
+    "Recomm": 564,
+    "Recommend": 565,
+    "Recommendations": 566,
+    "Pri": 567,
+    "Prior": 568,
+    "Priority": 569,
+    "Rem": 570,
+    "infected": 571,
+    "irrigation": 572,
+    "Co": 573,
+    "bin": 574,
+    "plants": 575,
+    "Dark": 576,
+    "Yellow": 577,
+    "chlorosis": 578,
+    "defoli": 579,
+    "defoliation": 580,
+    "foli": 581,
+    "foliage": 582,
+    "surfaces": 583,
+    "drop": 584,
+    "pre": 585,
+    "circular": 586,
+    "scab": 587,
+    "los": 588,
+    "ies": 589,
+    "cur": 590,
+    "ort": 591,
+    "ling": 592,
+    "unted": 593,
+    "necrotic": 594,
+    "ps": 595,
+    "bet": 596,
+    "betwe": 597,
+    "between": 598,
+    "ub": 599,
+    "Water": 600,
+    "Red": 601,
+    "ans": 602,
+    "apple": 603,
+    "ari": 604,
+    "whit": 605,
+    "comp": 606,
+    "icien": 607,
+    "iciency": 608,
+    "Tom": 609,
+    "Tomato": 610,
+    "fungicides": 611,
+    "Mon": 612,
+    "if": 613,
+    "Advis": 614,
+    "Advisor": 615,
+    "Advisory": 616,
+    "organic": 617,
+    "combin": 618,
+    "ractic": 619,
+    "ear": 620,
+    "concent": 621,
+    "concentric": 622,
+    "rings": 623,
+    "targ": 624,
+    "target": 625,
+    "pattern": 626,
+    "older": 627,
+    "fro": 628,
+    "up": 629,
+    "ale": 630,
+    "Wh": 631,
+    "cool": 632,
+    "am": 633,
+    "upper": 634,
+    "rous": 635,
+    "yc": 636,
+    "ck": 637,
+    "yellowing": 638,
+    "raise": 639,
+    "raised": 640,
+    "light": 641,
+    "ep": 642,
+    "sunken": 643,
+    "virus": 644,
+    "rect": 645,
+    "able": 646,
+    "ott": 647,
+    "Stunted": 648,
+    "poor": 649,
+    "tub": 650,
+    "purple": 651,
+    "surface": 652,
+    "fre": 653,
+    "free": 654,
+    "_bacterial": 655,
+    "sh": 656,
+    "ht": 657,
+    "apple_": 658,
+    "rust": 659,
+    "ud": 660,
+    "Bacterial": 661,
+    "gra": 662,
+    "be": 663,
+    "nutrient": 664,
+    "itro": 665,
+    "itrogen": 666,
+    "Nutrient": 667,
+    "reduc": 668,
+    "hosp": 669,
+    "hosph": 670,
+    "des": 671,
+    "oid": 672,
+    "overhead": 673,
+    "Bac": 674,
+    "Bacil": 675,
+    "Bacillu": 676,
+    "Bacillus": 677,
+    "sub": 678,
+    "subti": 679,
+    "subtil": 680,
+    "subtilis": 681,
+    "Monitoring": 682,
+    "Copper": 683,
+    "are": 684,
+    "mpro": 685,
+    "whitef": 686,
+    "whitefly": 687,
+    "vari": 688,
+    "varieti": 689,
+    "varieties": 690,
+    "im": 691,
+    "edi": 692,
+    "oil": 693,
+    "man": 694,
+    "star": 695,
+    "starting": 696,
+    "from": 697,
+    "bot": 698,
+    "canop": 699,
+    "late": 700,
+    "regular": 701,
+    "White": 702,
+    "unders": 703,
+    "coll": 704,
+    "sing": 705,
+    "exp": 706,
+    "ripen": 707,
+    "ripening": 708,
+    "patches": 709,
+    "gray": 710,
+    "premature": 711,
+    "pt": 712,
+    "centers": 713,
+    "pyc": 714,
+    "pycn": 715,
+    "pycnid": 716,
+    "pycnidia": 717,
+    "ble": 718,
+    "scal": 719,
+    "scald": 720,
+    "bo": 721,
+    "Se": 722,
+    "sa": 723,
+    "set": 724,
+    "vig": 725,
+    "lor": 726,
+    "no": 727,
+    "well": 728,
+    "flower": 729,
+    "potato_": 730,
+    "Leaf": 731,
+    "caus": 732,
+    "causing": 733,
+    "ky": 734,
+    "dry": 735,
+    "white": 736,
+    "day": 737,
+    "orous": 738,
+    "iz": 739,
+    "pepper": 740,
+    "Les": 741,
+    "Lesions": 742,
+    "right": 743,
+    "bran": 744,
+    "black_": 745,
+    "ana": 746,
+    "wil": 747,
+    "dis": 748,
+    "brin": 749,
+    "brinj": 750,
+    "brinjal": 751,
+    "time": 752,
+    "top": 753,
+    "ustul": 754,
+    "ustules": 755,
+    "powdery": 756,
+    "xy": 757,
+    "grape": 758,
+    "rice": 759,
+    "te": 760,
+    "ind": 761,
+    "Ne": 762,
+    "whe": 763,
+    "wheat": 764,
+    "lot": 765,
+    "ium": 766,
+    "Crop": 767,
+    "Remove": 768,
+    "troy": 769,
+    "debr": 770,
+    "debris": 771,
+    "bio": 772,
+    "cout": 773,
+    "spray": 774,
+    "coze": 775,
+    "cozeb": 776,
+    "20": 777,
+    "Plant": 778,
+    "bacter": 779,
+    "dro": 780,
+    "ha": 781,
+    "cast": 782,
+    "ds": 783,
+    "ulv": 784,
+    "impro": 785,
+    "appl": 786,
+    "applic": 787,
+    "monitoring": 788,
+    "resho": 789,
+    "reshol": 790,
+    "reshold": 791,
+    "action": 792,
+    "30": 793,
+    "fungi": 794,
+    "ractices": 795,
+    "isture": 796,
+    "Yellowing": 797,
+    "Premature": 798,
+    "bottom": 799,
+    "canopy": 800,
+    "arge": 801,
+    "irregular": 802,
+    "pale": 803,
+    "dur": 804,
+    "during": 805,
+    "mor": 806,
+    "morn": 807,
+    "morning": 808,
+    "browning": 809,
+    "collap": 810,
+    "Fir": 811,
+    "greas": 812,
+    "greasy": 813,
+    "expand": 814,
+    "expanding": 815,
+    "acros": 816,
+    "across": 817,
+    "old": 818,
+    "Ol": 819,
+    "Olive": 820,
+    "vel": 821,
+    "velve": 822,
+    "velvety": 823,
+    "oria": 824,
+    "_leaf_spot": 825,
+    "tan": 826,
+    "spe": 827,
+    "speck": 828,
+    "inside": 829,
+    "gress": 830,
+    "Spot": 831,
+    "halos": 832,
+    "blist": 833,
+    "blos": 834,
+    "blosso": 835,
+    "blossom": 836,
+    "into": 837,
+    "Severe": 838,
+    "cu": 839,
+    "vein": 840,
+    "young": 841,
+    "erect": 842,
+    "ance": 843,
+    "ortion": 844,
+    "nar": 845,
+    "narrow": 846,
+    "let": 847,
+    "ev": 848,
+    "even": 849,
+    "ibr": 850,
+    "ibrant": 851,
+    "iform": 852,
+    "color": 853,
+    "coloration": 854,
+    "tips": 855,
+    "Nor": 856,
+    "Normal": 857,
+    "peti": 858,
+    "petiol": 859,
+    "petioles": 860,
+    "conditions": 861,
+    "days": 862,
+    "dish": 863,
+    "spre": 864,
+    "inward": 865,
+    "tuber": 866,
+    "sk": 867,
+    "lean": 868,
+    "round": 869,
+    "dist": 870,
+    "Leaves": 871,
+    "lossy": 872,
+    "lowers": 873,
+    "developing": 874,
+    "bor": 875,
+    "Bl": 876,
+    "optimal": 877,
+    "ban": 878,
+    "banana": 879,
+    "_black_": 880,
+    "sig": 881,
+    "_p": 882,
+    "_wil": 883,
+    "_wilt": 884,
+    "ole": 885,
+    "road": 886,
+    "Mil": 887,
+    "Circular": 888,
+    "bed": 889,
+    "chil": 890,
+    "chilli": 891,
+    "di": 892,
+    "vigorous": 893,
+    "corn_": 894,
+    "ora": 895,
+    "angular": 896,
+    "ize": 897,
+    "_rust": 898,
+    "val": 899,
+    "pustules": 900,
+    "spo": 901,
+    "spores": 902,
+    "_leaf_blight": 903,
+    "shap": 904,
+    "shaped": 905,
+    "cott": 906,
+    "cotton": 907,
+    "along": 908,
+    "ber": 909,
+    "Sp": 910,
+    "ely": 911,
+    "wheat_": 912,
+    "Po": 913,
+    "Powdery": 914,
+    "Ir": 915,
+    "nutrient_": 916,
+    "nutrient_def": 917,
+    "nutrient_deficiency": 918,
+    "nitrogen": 919,
+    "ving": 920,
+    "reduced": 921,
+    "hosphor": 922,
+    "hosphorus": 923,
+    "king": 924,
+    "cium": 925,
+    "ched": 926,
+    "Al": 927,
+    "temperatures": 928,
+    "high": 929,
+    "first": 930,
+    "reduce": 931,
+    "spac": 932,
+    "spacing": 933,
+    "air": 934,
+    "Neem": 935,
+    "last": 936,
+    "resort": 937,
+    "Mancozeb": 938,
+    "cons": 939,
+    "inf": 940,
+    "infest": 941,
+    "night": 942,
+    "nights": 943,
+    "mpt": 944,
+    "mptly": 945,
+    "bactericides": 946,
+    "hydro": 947,
+    "hydrox": 948,
+    "hydroxide": 949,
+    "OM": 950,
+    "OMR": 951,
+    "OMRI": 952,
+    "list": 953,
+    "listed": 954,
+    "fore": 955,
+    "forecast": 956,
+    "forecasts": 957,
+    "Ch": 958,
+    "atural": 959,
+    "enem": 960,
+    "enemies": 961,
+    "det": 962,
+    "deter": 963,
+    "threshold": 964,
+    "press": 965,
+    "pressure": 966,
+    "Rot": 967,
+    "antho": 968,
+    "spp": 969,
+    "Warm": 970,
+    "du": 971,
+    "dew": 972,
+    "general": 973,
+    "ious": 974,
+    "Leve": 975,
+    "tomato": 976,
+    "tomatoes": 977,
+    "most": 978,
+    "coat": 979,
+    "couting": 980,
+    "fo": 981,
+    "found": 982,
+    "foundation": 983,
+    "conom": 984,
+    "prop": 985,
+    "IR": 986,
+    "ainable": 987,
+    "environmental": 988,
+    "sens": 989,
+    "that": 990,
+    "fer": 991,
+    "health": 992,
+    "sust": 993,
+    "soi": 994,
+    "soils": 995,
+    "than": 996,
+    "watering": 997,
+    "moisture": 998,
+    "ility": 999,
+    "Soil": 1000,
+    "mat": 1001,
+    "compo": 1002,
+    "compost": 1003,
+    "Def": 1004,
+    "Deficiency": 1005,
+    "Remedi": 1006,
+    "Remediation": 1007,
+    "early": 1008,
+    "early_blight": 1009,
+    "upward": 1010,
+    "Sun": 1011,
+    "Sunken": 1012,
+    "leather": 1013,
+    "leathery": 1014,
+    "late_blight": 1015,
+    "Large": 1016,
+    "fu": 1017,
+    "fuz": 1018,
+    "fuzz": 1019,
+    "underside": 1020,
+    "mornings": 1021,
+    "idly": 1022,
+    "appear": 1023,
+    "dam": 1024,
+    "Firm": 1025,
+    "mold": 1026,
+    "Pale": 1027,
+    "grayish": 1028,
+    "prematurely": 1029,
+    "sept": 1030,
+    "septoria": 1031,
+    "small": 1032,
+    "mm": 1033,
+    "iny": 1034,
+    "pin": 1035,
+    "specks": 1036,
+    "visi": 1037,
+    "visible": 1038,
+    "expo": 1039,
+    "sunscald": 1040,
+    "Spots": 1041,
+    "purpl": 1042,
+    "purplish": 1043,
+    "ged": 1044,
+    "Cr": 1045,
+    "blister": 1046,
+    "scabby": 1047,
+    "Ex": 1048,
+    "Ext": 1049,
+    "ensive": 1050,
+    "blighting": 1051,
+    "warm": 1052,
+    "board": 1053,
+    "mid": 1054,
+    "_leaf_": 1055,
+    "curl": 1056,
+    "_virus": 1057,
+    "pping": 1058,
+    "ction": 1059,
+    "size": 1060,
+    "veinal": 1061,
+    "bon": 1062,
+    "ail": 1063,
+    "mosa": 1064,
+    "mosaic": 1065,
+    "ottling": 1066,
+    "sho": 1067,
+    "lets": 1068,
+    "all": 1069,
+    "Brown": 1070,
+    "intern": 1071,
+    "internal": 1072,
+    "Vibrant": 1073,
+    "uniform": 1074,
+    "developed": 1075,
+    "rob": 1076,
+    "growing": 1077,
+    "clu": 1078,
+    "clust": 1079,
+    "development": 1080,
+    "tis": 1081,
+    "tissu": 1082,
+    "tissue": 1083,
+    "vin": 1084,
+    "sen": 1085,
+    "ence": 1086,
+    "tubers": 1087,
+    "icate": 1088,
+    "do": 1089,
+    "dow": 1090,
+    "down": 1091,
+    "collapse": 1092,
+    "Reddish": 1093,
+    "ading": 1094,
+    "necrosis": 1095,
+    "flowering": 1096,
+    "turning": 1097,
+    "burn": 1098,
+    "Glossy": 1099,
+    "deep": 1100,
+    "cr": 1101,
+    "urd": 1102,
+    "urdy": 1103,
+    "upright": 1104,
+    "branches": 1105,
+    "supp": 1106,
+    "ey": 1107,
+    "border": 1108,
+    "borders": 1109,
+    "Black": 1110,
+    "rotting": 1111,
+    "mum": 1112,
+    "mumm": 1113,
+    "Bright": 1114,
+    "oran": 1115,
+    "orange": 1116,
+    "stru": 1117,
+    "struct": 1118,
+    "structure": 1119,
+    "Lus": 1120,
+    "Lush": 1121,
+    "ished": 1122,
+    "dens": 1123,
+    "density": 1124,
+    "stre": 1125,
+    "par": 1126,
+    "progress": 1127,
+    "progressing": 1128,
+    "Peti": 1129,
+    "Petiole": 1130,
+    "bu": 1131,
+    "pse": 1132,
+    "pseud": 1133,
+    "pseudo": 1134,
+    "pseudostem": 1135,
+    "asc": 1136,
+    "ascular": 1137,
+    "discoloration": 1138,
+    "Broad": 1139,
+    "emeral": 1140,
+    "emerald": 1141,
+    "whi": 1142,
+    "while": 1143,
+    "main": 1144,
+    "oo": 1145,
+    "when": 1146,
+    "ripe": 1147,
+    "erv": 1148,
+    "die": 1149,
+    "back": 1150,
+    "branch": 1151,
+    "branching": 1152,
+    "coal": 1153,
+    "coales": 1154,
+    "coalesce": 1155,
+    "common": 1156,
+    "Oval": 1157,
+    "ern": 1158,
+    "15": 1159,
+    "long": 1160,
+    "amp": 1161,
+    "xyl": 1162,
+    "led": 1163,
+    "meas": 1164,
+    "measles": 1165,
+    "inter": 1166,
+    "berry": 1167,
+    "result": 1168,
+    "resulting": 1169,
+    "acc": 1170,
+    "clean": 1171,
+    "strip": 1172,
+    "stripes": 1173,
+    "ads": 1174,
+    "scat": 1175,
+    "scatte": 1176,
+    "scattered": 1177,
+    "umes": 1178,
+    "grain": 1179,
+    "blast": 1180,
+    "till": 1181,
+    "fl": 1182,
+    "flag": 1183,
+    "ade": 1184,
+    "chlorotic": 1185,
+    "off": 1186,
+    "Un": 1187,
+    "nutrient_deficiency_": 1188,
+    "Gen": 1189,
+    "General": 1190,
+    "moving": 1191,
+    "thin": 1192,
+    "pig": 1193,
+    "pigment": 1194,
+    "pigmentation": 1195,
+    "undersides": 1196,
+    "del": 1197,
+    "delay": 1198,
+    "delayed": 1199
+  },
+  "special_tokens": [
+    "<|pad|>",
+    "<|unk|>",
+    "<|bos|>",
+    "<|eos|>",
+    "<|im_start|>",
+    "<|im_end|>"
+  ],
+  "merges": [
+    [
+      "o",
+      "n"
+    ],
+    [
+      "a",
+      "t"
+    ],
+    [
+      "a",
+      "l"
+    ],
+    [
+      "i",
+      "n"
+    ],
+    [
+      "r",
+      "o"
+    ],
+    [
+      "a",
+      "n"
+    ],
+    [
+      "e",
+      "n"
+    ],
+    [
+      "r",
+      "e"
+    ],
+    [
+      "e",
+      "r"
+    ],
+    [
+      "s",
+      "e"
+    ],
+    [
+      "i",
+      "c"
+    ],
+    [
+      "i",
+      "on"
+    ],
+    [
+      "in",
+      "g"
+    ],
+    [
+      "e",
+      "s"
+    ],
+    [
+      "e",
+      "m"
+    ],
+    [
+      "u",
+      "l"
+    ],
+    [
+      "e",
+      "d"
+    ],
+    [
+      "l",
+      "e"
+    ],
+    [
+      "u",
+      "r"
+    ],
+    [
+      "o",
+      "r"
+    ],
+    [
+      "C",
+      "on"
+    ],
+    [
+      "en",
+      "t"
+    ],
+    [
+      "l",
+      "o"
+    ],
+    [
+      "i",
+      "r"
+    ],
+    [
+      "an",
+      "d"
+    ],
+    [
+      "i",
+      "t"
+    ],
+    [
+      "i",
+      "s"
+    ],
+    [
+      "h",
+      "o"
+    ],
+    [
+      "ul",
+      "t"
+    ],
+    [
+      "at",
+      "ion"
+    ],
+    [
+      "v",
+      "e"
+    ],
+    [
+      "l",
+      "s"
+    ],
+    [
+      "t",
+      "ro"
+    ],
+    [
+      "f",
+      "i"
+    ],
+    [
+      "Con",
+      "tro"
+    ],
+    [
+      "Contro",
+      "ls"
+    ],
+    [
+      "i",
+      "d"
+    ],
+    [
+      "a",
+      "f"
+    ],
+    [
+      "t",
+      "i"
+    ],
+    [
+      "ic",
+      "al"
+    ],
+    [
+      "a",
+      "g"
+    ],
+    [
+      "r",
+      "ic"
+    ],
+    [
+      "t",
+      "o"
+    ],
+    [
+      "a",
+      "se"
+    ],
+    [
+      "a",
+      "r"
+    ],
+    [
+      "i",
+      "g"
+    ],
+    [
+      "ro",
+      "p"
+    ],
+    [
+      "a",
+      "in"
+    ],
+    [
+      "i",
+      "se"
+    ],
+    [
+      "ur",
+      "al"
+    ],
+    [
+      "v",
+      "ir"
+    ],
+    [
+      "ult",
+      "ural"
+    ],
+    [
+      "ise",
+      "ase"
+    ],
+    [
+      "c",
+      "t"
+    ],
+    [
+      "e",
+      "g"
+    ],
+    [
+      "r",
+      "at"
+    ],
+    [
+      "u",
+      "n"
+    ],
+    [
+      "e",
+      "l"
+    ],
+    [
+      "c",
+      "rop"
+    ],
+    [
+      "o",
+      "f"
+    ],
+    [
+      "p",
+      "p"
+    ],
+    [
+      "t",
+      "h"
+    ],
+    [
+      "le",
+      "af"
+    ],
+    [
+      "l",
+      "y"
+    ],
+    [
+      "u",
+      "re"
+    ],
+    [
+      "an",
+      "t"
+    ],
+    [
+      "d",
+      "er"
+    ],
+    [
+      "s",
+      "t"
+    ],
+    [
+      "e",
+      "t"
+    ],
+    [
+      "re",
+      "s"
+    ],
+    [
+      "it",
+      "y"
+    ],
+    [
+      "u",
+      "m"
+    ],
+    [
+      "ro",
+      "t"
+    ],
+    [
+      "is",
+      "t"
+    ],
+    [
+      "p",
+      "e"
+    ],
+    [
+      "i",
+      "o"
+    ],
+    [
+      "m",
+      "ent"
+    ],
+    [
+      "er",
+      "s"
+    ],
+    [
+      "m",
+      "p"
+    ],
+    [
+      "a",
+      "b"
+    ],
+    [
+      "to",
+      "m"
+    ],
+    [
+      "g",
+      "en"
+    ],
+    [
+      "r",
+      "ig"
+    ],
+    [
+      "es",
+      "t"
+    ],
+    [
+      "h",
+      "em"
+    ],
+    [
+      "hem",
+      "ical"
+    ],
+    [
+      "m",
+      "al"
+    ],
+    [
+      "I",
+      "P"
+    ],
+    [
+      "IP",
+      "M"
+    ],
+    [
+      "f",
+      "or"
+    ],
+    [
+      "c",
+      "al"
+    ],
+    [
+      "f",
+      "e"
+    ],
+    [
+      "o",
+      "t"
+    ],
+    [
+      "n",
+      "e"
+    ],
+    [
+      "lo",
+      "g"
+    ],
+    [
+      "pp",
+      "ly"
+    ],
+    [
+      "e",
+      "x"
+    ],
+    [
+      "i",
+      "ve"
+    ],
+    [
+      "p",
+      "at"
+    ],
+    [
+      "a",
+      "c"
+    ],
+    [
+      "at",
+      "ure"
+    ],
+    [
+      "h",
+      "um"
+    ],
+    [
+      "hum",
+      "id"
+    ],
+    [
+      "io",
+      "log"
+    ],
+    [
+      "id",
+      "e"
+    ],
+    [
+      "ag",
+      "ric"
+    ],
+    [
+      "fe",
+      "ct"
+    ],
+    [
+      "h",
+      "y"
+    ],
+    [
+      "iolog",
+      "ical"
+    ],
+    [
+      "ho",
+      "gen"
+    ],
+    [
+      "l",
+      "u"
+    ],
+    [
+      "p",
+      "er"
+    ],
+    [
+      "humid",
+      "ity"
+    ],
+    [
+      "M",
+      "an"
+    ],
+    [
+      "C",
+      "ultural"
+    ],
+    [
+      "B",
+      "iological"
+    ],
+    [
+      "lo",
+      "cal"
+    ],
+    [
+      "U",
+      "se"
+    ],
+    [
+      "un",
+      "g"
+    ],
+    [
+      "m",
+      "a"
+    ],
+    [
+      "en",
+      "s"
+    ],
+    [
+      "ro",
+      "w"
+    ],
+    [
+      "r",
+      "an"
+    ],
+    [
+      "q",
+      "u"
+    ],
+    [
+      "I",
+      "n"
+    ],
+    [
+      "em",
+      "ent"
+    ],
+    [
+      "S",
+      "t"
+    ],
+    [
+      "C",
+      "hemical"
+    ],
+    [
+      "d",
+      "isease"
+    ],
+    [
+      "d",
+      "ing"
+    ],
+    [
+      "lo",
+      "w"
+    ],
+    [
+      "g",
+      "e"
+    ],
+    [
+      "ag",
+      "ement"
+    ],
+    [
+      "i",
+      "en"
+    ],
+    [
+      "res",
+      "ist"
+    ],
+    [
+      "c",
+      "o"
+    ],
+    [
+      "P",
+      "re"
+    ],
+    [
+      "vir",
+      "on"
+    ],
+    [
+      "viron",
+      "ment"
+    ],
+    [
+      "p",
+      "ti"
+    ],
+    [
+      "l",
+      "at"
+    ],
+    [
+      "o",
+      "ve"
+    ],
+    [
+      "w",
+      "et"
+    ],
+    [
+      "Man",
+      "agement"
+    ],
+    [
+      "el",
+      "d"
+    ],
+    [
+      "for",
+      "m"
+    ],
+    [
+      "ul",
+      "ation"
+    ],
+    [
+      "v",
+      "ent"
+    ],
+    [
+      "c",
+      "er"
+    ],
+    [
+      "resist",
+      "ant"
+    ],
+    [
+      "in",
+      "c"
+    ],
+    [
+      "E",
+      "n"
+    ],
+    [
+      "re",
+      "qu"
+    ],
+    [
+      "es",
+      "s"
+    ],
+    [
+      "In",
+      "t"
+    ],
+    [
+      "fi",
+      "ed"
+    ],
+    [
+      "s",
+      "p"
+    ],
+    [
+      "vironment",
+      "al"
+    ],
+    [
+      "pti",
+      "mal"
+    ],
+    [
+      "t",
+      "em"
+    ],
+    [
+      "tem",
+      "per"
+    ],
+    [
+      "temper",
+      "ature"
+    ],
+    [
+      "Int",
+      "eg"
+    ],
+    [
+      "Integ",
+      "rat"
+    ],
+    [
+      "Integrat",
+      "ed"
+    ],
+    [
+      "P",
+      "est"
+    ],
+    [
+      "fi",
+      "eld"
+    ],
+    [
+      "rot",
+      "ation"
+    ],
+    [
+      "A",
+      "pply"
+    ],
+    [
+      "T",
+      "ric"
+    ],
+    [
+      "Tric",
+      "ho"
+    ],
+    [
+      "Tricho",
+      "der"
+    ],
+    [
+      "Trichoder",
+      "ma"
+    ],
+    [
+      "ne",
+      "em"
+    ],
+    [
+      "cer",
+      "ti"
+    ],
+    [
+      "certi",
+      "fied"
+    ],
+    [
+      "se",
+      "ed"
+    ],
+    [
+      "D",
+      "isease"
+    ],
+    [
+      "P",
+      "ro"
+    ],
+    [
+      "pat",
+      "hogen"
+    ],
+    [
+      "y",
+      "mp"
+    ],
+    [
+      "w",
+      "it"
+    ],
+    [
+      "wet",
+      "n"
+    ],
+    [
+      "wetn",
+      "ess"
+    ],
+    [
+      "t",
+      "ain"
+    ],
+    [
+      "ex",
+      "t"
+    ],
+    [
+      "Pre",
+      "vent"
+    ],
+    [
+      "crop",
+      "s"
+    ],
+    [
+      "inc",
+      "lu"
+    ],
+    [
+      "ymp",
+      "tom"
+    ],
+    [
+      "wit",
+      "h"
+    ],
+    [
+      "rig",
+      "g"
+    ],
+    [
+      "rigg",
+      "ers"
+    ],
+    [
+      "re",
+      "lat"
+    ],
+    [
+      "relat",
+      "ive"
+    ],
+    [
+      "ab",
+      "ove"
+    ],
+    [
+      "ain",
+      "tain"
+    ],
+    [
+      "vir",
+      "ide"
+    ],
+    [
+      "Prevent",
+      "ion"
+    ],
+    [
+      "Pro",
+      "fi"
+    ],
+    [
+      "Profi",
+      "le"
+    ],
+    [
+      "T",
+      "y"
+    ],
+    [
+      "Ty",
+      "pe"
+    ],
+    [
+      "af",
+      "fect"
+    ],
+    [
+      "affect",
+      "ing"
+    ],
+    [
+      "inclu",
+      "ding"
+    ],
+    [
+      "S",
+      "ymptom"
+    ],
+    [
+      "Symptom",
+      "s"
+    ],
+    [
+      "a",
+      "v"
+    ],
+    [
+      "En",
+      "vironmental"
+    ],
+    [
+      "T",
+      "riggers"
+    ],
+    [
+      "O",
+      "ptimal"
+    ],
+    [
+      "ran",
+      "ge"
+    ],
+    [
+      "requ",
+      "ir"
+    ],
+    [
+      "requir",
+      "ing"
+    ],
+    [
+      "ho",
+      "ur"
+    ],
+    [
+      "hour",
+      "s"
+    ],
+    [
+      "St",
+      "rat"
+    ],
+    [
+      "Strat",
+      "eg"
+    ],
+    [
+      "Strateg",
+      "y"
+    ],
+    [
+      "M",
+      "aintain"
+    ],
+    [
+      "hy",
+      "g"
+    ],
+    [
+      "hyg",
+      "ien"
+    ],
+    [
+      "hygien",
+      "e"
+    ],
+    [
+      "form",
+      "ulation"
+    ],
+    [
+      "Con",
+      "s"
+    ],
+    [
+      "Cons",
+      "ult"
+    ],
+    [
+      "agric",
+      "ultural"
+    ],
+    [
+      "ext",
+      "ens"
+    ],
+    [
+      "extens",
+      "ion"
+    ],
+    [
+      "seed",
+      "s"
+    ],
+    [
+      "av",
+      "es"
+    ],
+    [
+      "ung",
+      "al"
+    ],
+    [
+      "row",
+      "n"
+    ],
+    [
+      "i",
+      "l"
+    ],
+    [
+      "r",
+      "a"
+    ],
+    [
+      "b",
+      "l"
+    ],
+    [
+      "le",
+      "aves"
+    ],
+    [
+      "b",
+      "rown"
+    ],
+    [
+      "o",
+      "l"
+    ],
+    [
+      "h",
+      "e"
+    ],
+    [
+      "al",
+      "th"
+    ],
+    [
+      "ion",
+      "s"
+    ],
+    [
+      "r",
+      "i"
+    ],
+    [
+      "F",
+      "ungal"
+    ],
+    [
+      "e",
+      "f"
+    ],
+    [
+      "r",
+      "u"
+    ],
+    [
+      "el",
+      "low"
+    ],
+    [
+      "g",
+      "re"
+    ],
+    [
+      "u",
+      "s"
+    ],
+    [
+      "alth",
+      "y"
+    ],
+    [
+      "sp",
+      "ot"
+    ],
+    [
+      "th",
+      "e"
+    ],
+    [
+      "s",
+      "o"
+    ],
+    [
+      "ig",
+      "h"
+    ],
+    [
+      "c",
+      "h"
+    ],
+    [
+      "gre",
+      "en"
+    ],
+    [
+      "a",
+      "d"
+    ],
+    [
+      "at",
+      "o"
+    ],
+    [
+      "l",
+      "es"
+    ],
+    [
+      "y",
+      "ellow"
+    ],
+    [
+      "ar",
+      "k"
+    ],
+    [
+      "a",
+      "ct"
+    ],
+    [
+      "ac",
+      "k"
+    ],
+    [
+      "ru",
+      "it"
+    ],
+    [
+      "l",
+      "ant"
+    ],
+    [
+      "m",
+      "o"
+    ],
+    [
+      "igh",
+      "t"
+    ],
+    [
+      "spot",
+      "s"
+    ],
+    [
+      "f",
+      "ruit"
+    ],
+    [
+      "l",
+      "i"
+    ],
+    [
+      "at",
+      "er"
+    ],
+    [
+      "in",
+      "s"
+    ],
+    [
+      "d",
+      "e"
+    ],
+    [
+      "en",
+      "d"
+    ],
+    [
+      "ul",
+      "ar"
+    ],
+    [
+      "is",
+      "h"
+    ],
+    [
+      "u",
+      "t"
+    ],
+    [
+      "c",
+      "on"
+    ],
+    [
+      "a",
+      "s"
+    ],
+    [
+      "p",
+      "lant"
+    ],
+    [
+      "he",
+      "althy"
+    ],
+    [
+      "les",
+      "ions"
+    ],
+    [
+      "i",
+      "a"
+    ],
+    [
+      "act",
+      "er"
+    ],
+    [
+      "w",
+      "e"
+    ],
+    [
+      "at",
+      "e"
+    ],
+    [
+      "f",
+      "ic"
+    ],
+    [
+      "bl",
+      "ack"
+    ],
+    [
+      "i",
+      "al"
+    ],
+    [
+      "low",
+      "er"
+    ],
+    [
+      "d",
+      "ark"
+    ],
+    [
+      "pp",
+      "er"
+    ],
+    [
+      "co",
+      "m"
+    ],
+    [
+      "ar",
+      "g"
+    ],
+    [
+      "st",
+      "em"
+    ],
+    [
+      "w",
+      "ater"
+    ],
+    [
+      "p",
+      "o"
+    ],
+    [
+      "re",
+      "d"
+    ],
+    [
+      "w",
+      "h"
+    ],
+    [
+      "ato",
+      "_"
+    ],
+    [
+      "k",
+      "e"
+    ],
+    [
+      "t",
+      "er"
+    ],
+    [
+      "ur",
+      "n"
+    ],
+    [
+      "c",
+      "e"
+    ],
+    [
+      "p",
+      "ro"
+    ],
+    [
+      "o",
+      "re"
+    ],
+    [
+      "bl",
+      "ight"
+    ],
+    [
+      "li",
+      "ke"
+    ],
+    [
+      "s",
+      "ur"
+    ],
+    [
+      "ol",
+      "i"
+    ],
+    [
+      "h",
+      "er"
+    ],
+    [
+      "a",
+      "k"
+    ],
+    [
+      "a",
+      "pp"
+    ],
+    [
+      "acter",
+      "ial"
+    ],
+    [
+      "b",
+      "r"
+    ],
+    [
+      "s",
+      "u"
+    ],
+    [
+      "H",
+      "e"
+    ],
+    [
+      "so",
+      "ak"
+    ],
+    [
+      "ag",
+      "e"
+    ],
+    [
+      "t",
+      "urn"
+    ],
+    [
+      "t",
+      "ed"
+    ],
+    [
+      "t",
+      "re"
+    ],
+    [
+      "m",
+      "on"
+    ],
+    [
+      "f",
+      "ung"
+    ],
+    [
+      "ult",
+      "ure"
+    ],
+    [
+      "ro",
+      "s"
+    ],
+    [
+      "ar",
+      "d"
+    ],
+    [
+      "at",
+      "her"
+    ],
+    [
+      "soak",
+      "ed"
+    ],
+    [
+      "g",
+      "row"
+    ],
+    [
+      "sur",
+      "f"
+    ],
+    [
+      "surf",
+      "ac"
+    ],
+    [
+      "c",
+      "or"
+    ],
+    [
+      "ir",
+      "c"
+    ],
+    [
+      "ve",
+      "re"
+    ],
+    [
+      "z",
+      "e"
+    ],
+    [
+      "y",
+      "o"
+    ],
+    [
+      "c",
+      "a"
+    ],
+    [
+      "He",
+      "althy"
+    ],
+    [
+      "u",
+      "se"
+    ],
+    [
+      "b",
+      "ase"
+    ],
+    [
+      "o",
+      "m"
+    ],
+    [
+      "ut",
+      "ri"
+    ],
+    [
+      "utri",
+      "ent"
+    ],
+    [
+      "id",
+      "es"
+    ],
+    [
+      "ation",
+      "s"
+    ],
+    [
+      "f",
+      "ir"
+    ],
+    [
+      "agric",
+      "ulture"
+    ],
+    [
+      "tre",
+      "at"
+    ],
+    [
+      "tom",
+      "ato_"
+    ],
+    [
+      "it",
+      "e"
+    ],
+    [
+      "ra",
+      "y"
+    ],
+    [
+      "m",
+      "arg"
+    ],
+    [
+      "marg",
+      "ins"
+    ],
+    [
+      "s",
+      "un"
+    ],
+    [
+      "b",
+      "y"
+    ],
+    [
+      "v",
+      "er"
+    ],
+    [
+      "L",
+      "e"
+    ],
+    [
+      "r",
+      "y"
+    ],
+    [
+      "d",
+      "it"
+    ],
+    [
+      "dit",
+      "ions"
+    ],
+    [
+      "_",
+      "healthy"
+    ],
+    [
+      "O",
+      "r"
+    ],
+    [
+      "ir",
+      "rig"
+    ],
+    [
+      "it",
+      "or"
+    ],
+    [
+      "b",
+      "ef"
+    ],
+    [
+      "bef",
+      "ore"
+    ],
+    [
+      "y",
+      "an"
+    ],
+    [
+      "a",
+      "pply"
+    ],
+    [
+      "c",
+      "hemical"
+    ],
+    [
+      "treat",
+      "ment"
+    ],
+    [
+      "so",
+      "il"
+    ],
+    [
+      "_",
+      "blight"
+    ],
+    [
+      "c",
+      "ent"
+    ],
+    [
+      "r",
+      "ing"
+    ],
+    [
+      "ter",
+      "n"
+    ],
+    [
+      "ch",
+      "lo"
+    ],
+    [
+      "d",
+      "ef"
+    ],
+    [
+      "t",
+      "ing"
+    ],
+    [
+      "fruit",
+      "s"
+    ],
+    [
+      "stem",
+      "s"
+    ],
+    [
+      "f",
+      "ungal"
+    ],
+    [
+      "grow",
+      "th"
+    ],
+    [
+      "a",
+      "p"
+    ],
+    [
+      "l",
+      "l"
+    ],
+    [
+      "ri",
+      "p"
+    ],
+    [
+      "mal",
+      "l"
+    ],
+    [
+      "irc",
+      "ular"
+    ],
+    [
+      "p",
+      "ot"
+    ],
+    [
+      "red",
+      "u"
+    ],
+    [
+      "u",
+      "st"
+    ],
+    [
+      "a",
+      "y"
+    ],
+    [
+      "V",
+      "ig"
+    ],
+    [
+      "R",
+      "e"
+    ],
+    [
+      "an",
+      "ic"
+    ],
+    [
+      "ic",
+      "ides"
+    ],
+    [
+      "itor",
+      "ing"
+    ],
+    [
+      "K",
+      "end"
+    ],
+    [
+      "Kend",
+      "ra"
+    ],
+    [
+      "K",
+      "V"
+    ],
+    [
+      "KV",
+      "K"
+    ],
+    [
+      "apply",
+      "ing"
+    ],
+    [
+      "an",
+      "y"
+    ],
+    [
+      "ros",
+      "is"
+    ],
+    [
+      "m",
+      "ature"
+    ],
+    [
+      "c",
+      "an"
+    ],
+    [
+      "fect",
+      "ed"
+    ],
+    [
+      "_",
+      "leaf"
+    ],
+    [
+      "v",
+      "is"
+    ],
+    [
+      "res",
+      "s"
+    ],
+    [
+      "b",
+      "acterial"
+    ],
+    [
+      "s",
+      "c"
+    ],
+    [
+      "we",
+      "ather"
+    ],
+    [
+      "ne",
+      "c"
+    ],
+    [
+      "rot",
+      "ic"
+    ],
+    [
+      "lo",
+      "p"
+    ],
+    [
+      "ent",
+      "i"
+    ],
+    [
+      "un",
+      "d"
+    ],
+    [
+      "se",
+      "vere"
+    ],
+    [
+      "on",
+      "g"
+    ],
+    [
+      "m",
+      "e"
+    ],
+    [
+      "c",
+      "y"
+    ],
+    [
+      "Or",
+      "der"
+    ],
+    [
+      "base",
+      "d"
+    ],
+    [
+      "ra",
+      "ct"
+    ],
+    [
+      "A",
+      "d"
+    ],
+    [
+      "Con",
+      "fir"
+    ],
+    [
+      "Confir",
+      "m"
+    ],
+    [
+      "yo",
+      "ur"
+    ],
+    [
+      "of",
+      "fic"
+    ],
+    [
+      "offic",
+      "er"
+    ],
+    [
+      "K",
+      "r"
+    ],
+    [
+      "Kr",
+      "ish"
+    ],
+    [
+      "Krish",
+      "i"
+    ],
+    [
+      "Vig",
+      "yan"
+    ],
+    [
+      "g",
+      "anic"
+    ],
+    [
+      "p",
+      "est"
+    ],
+    [
+      "h",
+      "al"
+    ],
+    [
+      "hal",
+      "o"
+    ],
+    [
+      "o",
+      "p"
+    ],
+    [
+      "w",
+      "ard"
+    ],
+    [
+      "k",
+      "en"
+    ],
+    [
+      "g",
+      "ular"
+    ],
+    [
+      "un",
+      "der"
+    ],
+    [
+      "ch",
+      "es"
+    ],
+    [
+      "t",
+      "y"
+    ],
+    [
+      "_",
+      "spot"
+    ],
+    [
+      "he",
+      "ad"
+    ],
+    [
+      "S",
+      "mall"
+    ],
+    [
+      "p",
+      "ur"
+    ],
+    [
+      "pur",
+      "p"
+    ],
+    [
+      "ar",
+      "m"
+    ],
+    [
+      "r",
+      "ain"
+    ],
+    [
+      "s",
+      "i"
+    ],
+    [
+      "o",
+      "ver"
+    ],
+    [
+      "el",
+      "l"
+    ],
+    [
+      "de",
+      "ve"
+    ],
+    [
+      "deve",
+      "lop"
+    ],
+    [
+      "ve",
+      "ins"
+    ],
+    [
+      "s",
+      "y"
+    ],
+    [
+      "e",
+      "ti"
+    ],
+    [
+      "er",
+      "al"
+    ],
+    [
+      "m",
+      "in"
+    ],
+    [
+      "cor",
+      "n"
+    ],
+    [
+      "w",
+      "der"
+    ],
+    [
+      "wder",
+      "y"
+    ],
+    [
+      "ro",
+      "ot"
+    ],
+    [
+      "a",
+      "st"
+    ],
+    [
+      "P",
+      "at"
+    ],
+    [
+      "Pat",
+      "hogen"
+    ],
+    [
+      "Con",
+      "ditions"
+    ],
+    [
+      "I",
+      "d"
+    ],
+    [
+      "Id",
+      "enti"
+    ],
+    [
+      "Identi",
+      "fic"
+    ],
+    [
+      "Identific",
+      "ation"
+    ],
+    [
+      "Re",
+      "com"
+    ],
+    [
+      "Recom",
+      "m"
+    ],
+    [
+      "Recomm",
+      "end"
+    ],
+    [
+      "Recommend",
+      "ations"
+    ],
+    [
+      "P",
+      "ri"
+    ],
+    [
+      "Pri",
+      "or"
+    ],
+    [
+      "Prior",
+      "ity"
+    ],
+    [
+      "R",
+      "em"
+    ],
+    [
+      "in",
+      "fected"
+    ],
+    [
+      "irrig",
+      "ation"
+    ],
+    [
+      "C",
+      "o"
+    ],
+    [
+      "b",
+      "in"
+    ],
+    [
+      "plant",
+      "s"
+    ],
+    [
+      "D",
+      "ark"
+    ],
+    [
+      "Y",
+      "ellow"
+    ],
+    [
+      "chlo",
+      "rosis"
+    ],
+    [
+      "def",
+      "oli"
+    ],
+    [
+      "defoli",
+      "ation"
+    ],
+    [
+      "f",
+      "oli"
+    ],
+    [
+      "foli",
+      "age"
+    ],
+    [
+      "surfac",
+      "es"
+    ],
+    [
+      "d",
+      "rop"
+    ],
+    [
+      "p",
+      "re"
+    ],
+    [
+      "c",
+      "ircular"
+    ],
+    [
+      "sc",
+      "ab"
+    ],
+    [
+      "lo",
+      "s"
+    ],
+    [
+      "i",
+      "es"
+    ],
+    [
+      "c",
+      "ur"
+    ],
+    [
+      "or",
+      "t"
+    ],
+    [
+      "l",
+      "ing"
+    ],
+    [
+      "un",
+      "ted"
+    ],
+    [
+      "nec",
+      "rotic"
+    ],
+    [
+      "p",
+      "s"
+    ],
+    [
+      "b",
+      "et"
+    ],
+    [
+      "bet",
+      "we"
+    ],
+    [
+      "betwe",
+      "en"
+    ],
+    [
+      "u",
+      "b"
+    ],
+    [
+      "W",
+      "ater"
+    ],
+    [
+      "R",
+      "ed"
+    ],
+    [
+      "an",
+      "s"
+    ],
+    [
+      "app",
+      "le"
+    ],
+    [
+      "ar",
+      "i"
+    ],
+    [
+      "wh",
+      "it"
+    ],
+    [
+      "co",
+      "mp"
+    ],
+    [
+      "ic",
+      "ien"
+    ],
+    [
+      "icien",
+      "cy"
+    ],
+    [
+      "T",
+      "om"
+    ],
+    [
+      "Tom",
+      "ato"
+    ],
+    [
+      "fung",
+      "icides"
+    ],
+    [
+      "M",
+      "on"
+    ],
+    [
+      "i",
+      "f"
+    ],
+    [
+      "Ad",
+      "vis"
+    ],
+    [
+      "Advis",
+      "or"
+    ],
+    [
+      "Advisor",
+      "y"
+    ],
+    [
+      "or",
+      "ganic"
+    ],
+    [
+      "com",
+      "bin"
+    ],
+    [
+      "ract",
+      "ic"
+    ],
+    [
+      "e",
+      "ar"
+    ],
+    [
+      "con",
+      "cent"
+    ],
+    [
+      "concent",
+      "ric"
+    ],
+    [
+      "ring",
+      "s"
+    ],
+    [
+      "t",
+      "arg"
+    ],
+    [
+      "targ",
+      "et"
+    ],
+    [
+      "pat",
+      "tern"
+    ],
+    [
+      "ol",
+      "der"
+    ],
+    [
+      "f",
+      "ro"
+    ],
+    [
+      "u",
+      "p"
+    ],
+    [
+      "al",
+      "e"
+    ],
+    [
+      "W",
+      "h"
+    ],
+    [
+      "co",
+      "ol"
+    ],
+    [
+      "a",
+      "m"
+    ],
+    [
+      "u",
+      "pper"
+    ],
+    [
+      "ro",
+      "us"
+    ],
+    [
+      "y",
+      "c"
+    ],
+    [
+      "c",
+      "k"
+    ],
+    [
+      "yellow",
+      "ing"
+    ],
+    [
+      "ra",
+      "ise"
+    ],
+    [
+      "raise",
+      "d"
+    ],
+    [
+      "l",
+      "ight"
+    ],
+    [
+      "e",
+      "p"
+    ],
+    [
+      "sun",
+      "ken"
+    ],
+    [
+      "vir",
+      "us"
+    ],
+    [
+      "re",
+      "ct"
+    ],
+    [
+      "ab",
+      "le"
+    ],
+    [
+      "ot",
+      "t"
+    ],
+    [
+      "St",
+      "unted"
+    ],
+    [
+      "po",
+      "or"
+    ],
+    [
+      "t",
+      "ub"
+    ],
+    [
+      "purp",
+      "le"
+    ],
+    [
+      "surfac",
+      "e"
+    ],
+    [
+      "f",
+      "re"
+    ],
+    [
+      "fre",
+      "e"
+    ],
+    [
+      "_",
+      "bacterial"
+    ],
+    [
+      "s",
+      "h"
+    ],
+    [
+      "h",
+      "t"
+    ],
+    [
+      "apple",
+      "_"
+    ],
+    [
+      "ru",
+      "st"
+    ],
+    [
+      "u",
+      "d"
+    ],
+    [
+      "B",
+      "acterial"
+    ],
+    [
+      "g",
+      "ra"
+    ],
+    [
+      "b",
+      "e"
+    ],
+    [
+      "n",
+      "utrient"
+    ],
+    [
+      "it",
+      "ro"
+    ],
+    [
+      "itro",
+      "gen"
+    ],
+    [
+      "N",
+      "utrient"
+    ],
+    [
+      "redu",
+      "c"
+    ],
+    [
+      "ho",
+      "sp"
+    ],
+    [
+      "hosp",
+      "h"
+    ],
+    [
+      "d",
+      "es"
+    ],
+    [
+      "o",
+      "id"
+    ],
+    [
+      "over",
+      "head"
+    ],
+    [
+      "B",
+      "ac"
+    ],
+    [
+      "Bac",
+      "il"
+    ],
+    [
+      "Bacil",
+      "lu"
+    ],
+    [
+      "Bacillu",
+      "s"
+    ],
+    [
+      "su",
+      "b"
+    ],
+    [
+      "sub",
+      "ti"
+    ],
+    [
+      "subti",
+      "l"
+    ],
+    [
+      "subtil",
+      "is"
+    ],
+    [
+      "Mon",
+      "itoring"
+    ],
+    [
+      "Co",
+      "pper"
+    ],
+    [
+      "a",
+      "re"
+    ],
+    [
+      "mp",
+      "ro"
+    ],
+    [
+      "whit",
+      "ef"
+    ],
+    [
+      "whitef",
+      "ly"
+    ],
+    [
+      "v",
+      "ari"
+    ],
+    [
+      "vari",
+      "eti"
+    ],
+    [
+      "varieti",
+      "es"
+    ],
+    [
+      "i",
+      "m"
+    ],
+    [
+      "ed",
+      "i"
+    ],
+    [
+      "o",
+      "il"
+    ],
+    [
+      "m",
+      "an"
+    ],
+    [
+      "st",
+      "ar"
+    ],
+    [
+      "star",
+      "ting"
+    ],
+    [
+      "fro",
+      "m"
+    ],
+    [
+      "b",
+      "ot"
+    ],
+    [
+      "can",
+      "op"
+    ],
+    [
+      "lat",
+      "e"
+    ],
+    [
+      "re",
+      "gular"
+    ],
+    [
+      "Wh",
+      "ite"
+    ],
+    [
+      "under",
+      "s"
+    ],
+    [
+      "co",
+      "ll"
+    ],
+    [
+      "s",
+      "ing"
+    ],
+    [
+      "ex",
+      "p"
+    ],
+    [
+      "rip",
+      "en"
+    ],
+    [
+      "ripen",
+      "ing"
+    ],
+    [
+      "pat",
+      "ches"
+    ],
+    [
+      "g",
+      "ray"
+    ],
+    [
+      "pre",
+      "mature"
+    ],
+    [
+      "p",
+      "t"
+    ],
+    [
+      "cent",
+      "ers"
+    ],
+    [
+      "p",
+      "yc"
+    ],
+    [
+      "pyc",
+      "n"
+    ],
+    [
+      "pycn",
+      "id"
+    ],
+    [
+      "pycnid",
+      "ia"
+    ],
+    [
+      "b",
+      "le"
+    ],
+    [
+      "s",
+      "cal"
+    ],
+    [
+      "scal",
+      "d"
+    ],
+    [
+      "b",
+      "o"
+    ],
+    [
+      "S",
+      "e"
+    ],
+    [
+      "s",
+      "a"
+    ],
+    [
+      "se",
+      "t"
+    ],
+    [
+      "v",
+      "ig"
+    ],
+    [
+      "l",
+      "or"
+    ],
+    [
+      "n",
+      "o"
+    ],
+    [
+      "w",
+      "ell"
+    ],
+    [
+      "f",
+      "lower"
+    ],
+    [
+      "pot",
+      "ato_"
+    ],
+    [
+      "Le",
+      "af"
+    ],
+    [
+      "ca",
+      "us"
+    ],
+    [
+      "caus",
+      "ing"
+    ],
+    [
+      "k",
+      "y"
+    ],
+    [
+      "d",
+      "ry"
+    ],
+    [
+      "wh",
+      "ite"
+    ],
+    [
+      "d",
+      "ay"
+    ],
+    [
+      "o",
+      "rous"
+    ],
+    [
+      "i",
+      "z"
+    ],
+    [
+      "pe",
+      "pper"
+    ],
+    [
+      "L",
+      "es"
+    ],
+    [
+      "Les",
+      "ions"
+    ],
+    [
+      "rig",
+      "ht"
+    ],
+    [
+      "b",
+      "ran"
+    ],
+    [
+      "black",
+      "_"
+    ],
+    [
+      "an",
+      "a"
+    ],
+    [
+      "w",
+      "il"
+    ],
+    [
+      "d",
+      "is"
+    ],
+    [
+      "br",
+      "in"
+    ],
+    [
+      "brin",
+      "j"
+    ],
+    [
+      "brinj",
+      "al"
+    ],
+    [
+      "ti",
+      "me"
+    ],
+    [
+      "to",
+      "p"
+    ],
+    [
+      "ust",
+      "ul"
+    ],
+    [
+      "ustul",
+      "es"
+    ],
+    [
+      "po",
+      "wdery"
+    ],
+    [
+      "x",
+      "y"
+    ],
+    [
+      "gra",
+      "pe"
+    ],
+    [
+      "ric",
+      "e"
+    ],
+    [
+      "t",
+      "e"
+    ],
+    [
+      "in",
+      "d"
+    ],
+    [
+      "N",
+      "e"
+    ],
+    [
+      "w",
+      "he"
+    ],
+    [
+      "whe",
+      "at"
+    ],
+    [
+      "lo",
+      "t"
+    ],
+    [
+      "i",
+      "um"
+    ],
+    [
+      "C",
+      "rop"
+    ],
+    [
+      "Rem",
+      "ove"
+    ],
+    [
+      "tro",
+      "y"
+    ],
+    [
+      "de",
+      "br"
+    ],
+    [
+      "debr",
+      "is"
+    ],
+    [
+      "b",
+      "io"
+    ],
+    [
+      "co",
+      "ut"
+    ],
+    [
+      "sp",
+      "ray"
+    ],
+    [
+      "co",
+      "ze"
+    ],
+    [
+      "coze",
+      "b"
+    ],
+    [
+      "2",
+      "0"
+    ],
+    [
+      "P",
+      "lant"
+    ],
+    [
+      "b",
+      "acter"
+    ],
+    [
+      "d",
+      "ro"
+    ],
+    [
+      "h",
+      "a"
+    ],
+    [
+      "ca",
+      "st"
+    ],
+    [
+      "d",
+      "s"
+    ],
+    [
+      "ul",
+      "v"
+    ],
+    [
+      "i",
+      "mpro"
+    ],
+    [
+      "app",
+      "l"
+    ],
+    [
+      "appl",
+      "ic"
+    ],
+    [
+      "mon",
+      "itoring"
+    ],
+    [
+      "res",
+      "ho"
+    ],
+    [
+      "resho",
+      "l"
+    ],
+    [
+      "reshol",
+      "d"
+    ],
+    [
+      "act",
+      "ion"
+    ],
+    [
+      "3",
+      "0"
+    ],
+    [
+      "fung",
+      "i"
+    ],
+    [
+      "ractic",
+      "es"
+    ],
+    [
+      "ist",
+      "ure"
+    ],
+    [
+      "Yellow",
+      "ing"
+    ],
+    [
+      "Pre",
+      "mature"
+    ],
+    [
+      "bot",
+      "tom"
+    ],
+    [
+      "canop",
+      "y"
+    ],
+    [
+      "ar",
+      "ge"
+    ],
+    [
+      "ir",
+      "regular"
+    ],
+    [
+      "p",
+      "ale"
+    ],
+    [
+      "d",
+      "ur"
+    ],
+    [
+      "dur",
+      "ing"
+    ],
+    [
+      "m",
+      "or"
+    ],
+    [
+      "mor",
+      "n"
+    ],
+    [
+      "morn",
+      "ing"
+    ],
+    [
+      "brown",
+      "ing"
+    ],
+    [
+      "coll",
+      "ap"
+    ],
+    [
+      "F",
+      "ir"
+    ],
+    [
+      "gre",
+      "as"
+    ],
+    [
+      "greas",
+      "y"
+    ],
+    [
+      "exp",
+      "and"
+    ],
+    [
+      "expand",
+      "ing"
+    ],
+    [
+      "ac",
+      "ros"
+    ],
+    [
+      "acros",
+      "s"
+    ],
+    [
+      "ol",
+      "d"
+    ],
+    [
+      "O",
+      "l"
+    ],
+    [
+      "Ol",
+      "ive"
+    ],
+    [
+      "ve",
+      "l"
+    ],
+    [
+      "vel",
+      "ve"
+    ],
+    [
+      "velve",
+      "ty"
+    ],
+    [
+      "or",
+      "ia"
+    ],
+    [
+      "_leaf",
+      "_spot"
+    ],
+    [
+      "t",
+      "an"
+    ],
+    [
+      "s",
+      "pe"
+    ],
+    [
+      "spe",
+      "ck"
+    ],
+    [
+      "ins",
+      "ide"
+    ],
+    [
+      "g",
+      "ress"
+    ],
+    [
+      "S",
+      "pot"
+    ],
+    [
+      "halo",
+      "s"
+    ],
+    [
+      "bl",
+      "ist"
+    ],
+    [
+      "b",
+      "los"
+    ],
+    [
+      "blos",
+      "so"
+    ],
+    [
+      "blosso",
+      "m"
+    ],
+    [
+      "in",
+      "to"
+    ],
+    [
+      "Se",
+      "vere"
+    ],
+    [
+      "c",
+      "u"
+    ],
+    [
+      "ve",
+      "in"
+    ],
+    [
+      "yo",
+      "ung"
+    ],
+    [
+      "e",
+      "rect"
+    ],
+    [
+      "an",
+      "ce"
+    ],
+    [
+      "ort",
+      "ion"
+    ],
+    [
+      "n",
+      "ar"
+    ],
+    [
+      "nar",
+      "row"
+    ],
+    [
+      "le",
+      "t"
+    ],
+    [
+      "e",
+      "v"
+    ],
+    [
+      "ev",
+      "en"
+    ],
+    [
+      "i",
+      "br"
+    ],
+    [
+      "ibr",
+      "ant"
+    ],
+    [
+      "i",
+      "form"
+    ],
+    [
+      "co",
+      "lor"
+    ],
+    [
+      "color",
+      "ation"
+    ],
+    [
+      "ti",
+      "ps"
+    ],
+    [
+      "N",
+      "or"
+    ],
+    [
+      "Nor",
+      "mal"
+    ],
+    [
+      "pe",
+      "ti"
+    ],
+    [
+      "peti",
+      "ol"
+    ],
+    [
+      "petiol",
+      "es"
+    ],
+    [
+      "con",
+      "ditions"
+    ],
+    [
+      "day",
+      "s"
+    ],
+    [
+      "d",
+      "ish"
+    ],
+    [
+      "sp",
+      "re"
+    ],
+    [
+      "in",
+      "ward"
+    ],
+    [
+      "tub",
+      "er"
+    ],
+    [
+      "s",
+      "k"
+    ],
+    [
+      "le",
+      "an"
+    ],
+    [
+      "ro",
+      "und"
+    ],
+    [
+      "d",
+      "ist"
+    ],
+    [
+      "Le",
+      "aves"
+    ],
+    [
+      "los",
+      "sy"
+    ],
+    [
+      "low",
+      "ers"
+    ],
+    [
+      "develop",
+      "ing"
+    ],
+    [
+      "b",
+      "or"
+    ],
+    [
+      "B",
+      "l"
+    ],
+    [
+      "o",
+      "ptimal"
+    ],
+    [
+      "b",
+      "an"
+    ],
+    [
+      "ban",
+      "ana"
+    ],
+    [
+      "_",
+      "black_"
+    ],
+    [
+      "s",
+      "ig"
+    ],
+    [
+      "_",
+      "p"
+    ],
+    [
+      "_",
+      "wil"
+    ],
+    [
+      "_wil",
+      "t"
+    ],
+    [
+      "o",
+      "le"
+    ],
+    [
+      "ro",
+      "ad"
+    ],
+    [
+      "M",
+      "il"
+    ],
+    [
+      "C",
+      "ircular"
+    ],
+    [
+      "b",
+      "ed"
+    ],
+    [
+      "ch",
+      "il"
+    ],
+    [
+      "chil",
+      "li"
+    ],
+    [
+      "d",
+      "i"
+    ],
+    [
+      "vig",
+      "orous"
+    ],
+    [
+      "corn",
+      "_"
+    ],
+    [
+      "or",
+      "a"
+    ],
+    [
+      "an",
+      "gular"
+    ],
+    [
+      "i",
+      "ze"
+    ],
+    [
+      "_",
+      "rust"
+    ],
+    [
+      "v",
+      "al"
+    ],
+    [
+      "p",
+      "ustules"
+    ],
+    [
+      "sp",
+      "o"
+    ],
+    [
+      "spo",
+      "res"
+    ],
+    [
+      "_leaf",
+      "_blight"
+    ],
+    [
+      "sh",
+      "ap"
+    ],
+    [
+      "shap",
+      "ed"
+    ],
+    [
+      "c",
+      "ott"
+    ],
+    [
+      "cott",
+      "on"
+    ],
+    [
+      "al",
+      "ong"
+    ],
+    [
+      "b",
+      "er"
+    ],
+    [
+      "S",
+      "p"
+    ],
+    [
+      "el",
+      "y"
+    ],
+    [
+      "wheat",
+      "_"
+    ],
+    [
+      "P",
+      "o"
+    ],
+    [
+      "Po",
+      "wdery"
+    ],
+    [
+      "I",
+      "r"
+    ],
+    [
+      "nutrient",
+      "_"
+    ],
+    [
+      "nutrient_",
+      "def"
+    ],
+    [
+      "nutrient_def",
+      "iciency"
+    ],
+    [
+      "n",
+      "itrogen"
+    ],
+    [
+      "v",
+      "ing"
+    ],
+    [
+      "reduc",
+      "ed"
+    ],
+    [
+      "hosph",
+      "or"
+    ],
+    [
+      "hosphor",
+      "us"
+    ],
+    [
+      "k",
+      "ing"
+    ],
+    [
+      "c",
+      "ium"
+    ],
+    [
+      "ch",
+      "ed"
+    ],
+    [
+      "A",
+      "l"
+    ],
+    [
+      "temperature",
+      "s"
+    ],
+    [
+      "h",
+      "igh"
+    ],
+    [
+      "fir",
+      "st"
+    ],
+    [
+      "redu",
+      "ce"
+    ],
+    [
+      "sp",
+      "ac"
+    ],
+    [
+      "spac",
+      "ing"
+    ],
+    [
+      "a",
+      "ir"
+    ],
+    [
+      "Ne",
+      "em"
+    ],
+    [
+      "l",
+      "ast"
+    ],
+    [
+      "res",
+      "ort"
+    ],
+    [
+      "Man",
+      "cozeb"
+    ],
+    [
+      "con",
+      "s"
+    ],
+    [
+      "in",
+      "f"
+    ],
+    [
+      "inf",
+      "est"
+    ],
+    [
+      "n",
+      "ight"
+    ],
+    [
+      "night",
+      "s"
+    ],
+    [
+      "mp",
+      "t"
+    ],
+    [
+      "mpt",
+      "ly"
+    ],
+    [
+      "bacter",
+      "icides"
+    ],
+    [
+      "hy",
+      "dro"
+    ],
+    [
+      "hydro",
+      "x"
+    ],
+    [
+      "hydrox",
+      "ide"
+    ],
+    [
+      "O",
+      "M"
+    ],
+    [
+      "OM",
+      "R"
+    ],
+    [
+      "OMR",
+      "I"
+    ],
+    [
+      "l",
+      "ist"
+    ],
+    [
+      "list",
+      "ed"
+    ],
+    [
+      "f",
+      "ore"
+    ],
+    [
+      "fore",
+      "cast"
+    ],
+    [
+      "forecast",
+      "s"
+    ],
+    [
+      "C",
+      "h"
+    ],
+    [
+      "at",
+      "ural"
+    ],
+    [
+      "en",
+      "em"
+    ],
+    [
+      "enem",
+      "ies"
+    ],
+    [
+      "d",
+      "et"
+    ],
+    [
+      "det",
+      "er"
+    ],
+    [
+      "th",
+      "reshold"
+    ],
+    [
+      "p",
+      "ress"
+    ],
+    [
+      "press",
+      "ure"
+    ],
+    [
+      "R",
+      "ot"
+    ],
+    [
+      "ant",
+      "ho"
+    ],
+    [
+      "s",
+      "pp"
+    ],
+    [
+      "W",
+      "arm"
+    ],
+    [
+      "d",
+      "u"
+    ],
+    [
+      "de",
+      "w"
+    ],
+    [
+      "gen",
+      "eral"
+    ],
+    [
+      "io",
+      "us"
+    ],
+    [
+      "Le",
+      "ve"
+    ],
+    [
+      "tom",
+      "ato"
+    ],
+    [
+      "tomato",
+      "es"
+    ],
+    [
+      "mo",
+      "st"
+    ],
+    [
+      "co",
+      "at"
+    ],
+    [
+      "cout",
+      "ing"
+    ],
+    [
+      "f",
+      "o"
+    ],
+    [
+      "fo",
+      "und"
+    ],
+    [
+      "found",
+      "ation"
+    ],
+    [
+      "con",
+      "om"
+    ],
+    [
+      "p",
+      "rop"
+    ],
+    [
+      "I",
+      "R"
+    ],
+    [
+      "ain",
+      "able"
+    ],
+    [
+      "en",
+      "vironmental"
+    ],
+    [
+      "s",
+      "ens"
+    ],
+    [
+      "th",
+      "at"
+    ],
+    [
+      "f",
+      "er"
+    ],
+    [
+      "he",
+      "alth"
+    ],
+    [
+      "su",
+      "st"
+    ],
+    [
+      "so",
+      "i"
+    ],
+    [
+      "soi",
+      "ls"
+    ],
+    [
+      "th",
+      "an"
+    ],
+    [
+      "water",
+      "ing"
+    ],
+    [
+      "mo",
+      "isture"
+    ],
+    [
+      "il",
+      "ity"
+    ],
+    [
+      "S",
+      "oil"
+    ],
+    [
+      "m",
+      "at"
+    ],
+    [
+      "comp",
+      "o"
+    ],
+    [
+      "compo",
+      "st"
+    ],
+    [
+      "D",
+      "ef"
+    ],
+    [
+      "Def",
+      "iciency"
+    ],
+    [
+      "Rem",
+      "edi"
+    ],
+    [
+      "Remedi",
+      "ation"
+    ],
+    [
+      "ear",
+      "ly"
+    ],
+    [
+      "early",
+      "_blight"
+    ],
+    [
+      "up",
+      "ward"
+    ],
+    [
+      "S",
+      "un"
+    ],
+    [
+      "Sun",
+      "ken"
+    ],
+    [
+      "le",
+      "ather"
+    ],
+    [
+      "leather",
+      "y"
+    ],
+    [
+      "late",
+      "_blight"
+    ],
+    [
+      "L",
+      "arge"
+    ],
+    [
+      "f",
+      "u"
+    ],
+    [
+      "fu",
+      "z"
+    ],
+    [
+      "fuz",
+      "z"
+    ],
+    [
+      "unders",
+      "ide"
+    ],
+    [
+      "morning",
+      "s"
+    ],
+    [
+      "id",
+      "ly"
+    ],
+    [
+      "app",
+      "ear"
+    ],
+    [
+      "d",
+      "am"
+    ],
+    [
+      "Fir",
+      "m"
+    ],
+    [
+      "m",
+      "old"
+    ],
+    [
+      "P",
+      "ale"
+    ],
+    [
+      "gray",
+      "ish"
+    ],
+    [
+      "premature",
+      "ly"
+    ],
+    [
+      "se",
+      "pt"
+    ],
+    [
+      "sept",
+      "oria"
+    ],
+    [
+      "s",
+      "mall"
+    ],
+    [
+      "m",
+      "m"
+    ],
+    [
+      "in",
+      "y"
+    ],
+    [
+      "p",
+      "in"
+    ],
+    [
+      "speck",
+      "s"
+    ],
+    [
+      "vis",
+      "i"
+    ],
+    [
+      "visi",
+      "ble"
+    ],
+    [
+      "ex",
+      "po"
+    ],
+    [
+      "sun",
+      "scald"
+    ],
+    [
+      "Spot",
+      "s"
+    ],
+    [
+      "purp",
+      "l"
+    ],
+    [
+      "purpl",
+      "ish"
+    ],
+    [
+      "g",
+      "ed"
+    ],
+    [
+      "C",
+      "r"
+    ],
+    [
+      "blist",
+      "er"
+    ],
+    [
+      "scab",
+      "by"
+    ],
+    [
+      "E",
+      "x"
+    ],
+    [
+      "Ex",
+      "t"
+    ],
+    [
+      "ens",
+      "ive"
+    ],
+    [
+      "blight",
+      "ing"
+    ],
+    [
+      "w",
+      "arm"
+    ],
+    [
+      "bo",
+      "ard"
+    ],
+    [
+      "m",
+      "id"
+    ],
+    [
+      "_leaf",
+      "_"
+    ],
+    [
+      "cur",
+      "l"
+    ],
+    [
+      "_",
+      "virus"
+    ],
+    [
+      "pp",
+      "ing"
+    ],
+    [
+      "ct",
+      "ion"
+    ],
+    [
+      "si",
+      "ze"
+    ],
+    [
+      "vein",
+      "al"
+    ],
+    [
+      "b",
+      "on"
+    ],
+    [
+      "a",
+      "il"
+    ],
+    [
+      "mo",
+      "sa"
+    ],
+    [
+      "mosa",
+      "ic"
+    ],
+    [
+      "ott",
+      "ling"
+    ],
+    [
+      "s",
+      "ho"
+    ],
+    [
+      "let",
+      "s"
+    ],
+    [
+      "al",
+      "l"
+    ],
+    [
+      "B",
+      "rown"
+    ],
+    [
+      "in",
+      "tern"
+    ],
+    [
+      "intern",
+      "al"
+    ],
+    [
+      "V",
+      "ibrant"
+    ],
+    [
+      "un",
+      "iform"
+    ],
+    [
+      "develop",
+      "ed"
+    ],
+    [
+      "ro",
+      "b"
+    ],
+    [
+      "grow",
+      "ing"
+    ],
+    [
+      "c",
+      "lu"
+    ],
+    [
+      "clu",
+      "st"
+    ],
+    [
+      "develop",
+      "ment"
+    ],
+    [
+      "t",
+      "is"
+    ],
+    [
+      "tis",
+      "su"
+    ],
+    [
+      "tissu",
+      "e"
+    ],
+    [
+      "v",
+      "in"
+    ],
+    [
+      "s",
+      "en"
+    ],
+    [
+      "en",
+      "ce"
+    ],
+    [
+      "tub",
+      "ers"
+    ],
+    [
+      "ic",
+      "ate"
+    ],
+    [
+      "d",
+      "o"
+    ],
+    [
+      "do",
+      "w"
+    ],
+    [
+      "dow",
+      "n"
+    ],
+    [
+      "collap",
+      "se"
+    ],
+    [
+      "Red",
+      "dish"
+    ],
+    [
+      "a",
+      "ding"
+    ],
+    [
+      "nec",
+      "rosis"
+    ],
+    [
+      "flower",
+      "ing"
+    ],
+    [
+      "turn",
+      "ing"
+    ],
+    [
+      "b",
+      "urn"
+    ],
+    [
+      "G",
+      "lossy"
+    ],
+    [
+      "de",
+      "ep"
+    ],
+    [
+      "c",
+      "r"
+    ],
+    [
+      "ur",
+      "d"
+    ],
+    [
+      "urd",
+      "y"
+    ],
+    [
+      "up",
+      "right"
+    ],
+    [
+      "bran",
+      "ches"
+    ],
+    [
+      "su",
+      "pp"
+    ],
+    [
+      "e",
+      "y"
+    ],
+    [
+      "bor",
+      "der"
+    ],
+    [
+      "border",
+      "s"
+    ],
+    [
+      "Bl",
+      "ack"
+    ],
+    [
+      "rot",
+      "ting"
+    ],
+    [
+      "m",
+      "um"
+    ],
+    [
+      "mum",
+      "m"
+    ],
+    [
+      "B",
+      "right"
+    ],
+    [
+      "or",
+      "an"
+    ],
+    [
+      "oran",
+      "ge"
+    ],
+    [
+      "st",
+      "ru"
+    ],
+    [
+      "stru",
+      "ct"
+    ],
+    [
+      "struct",
+      "ure"
+    ],
+    [
+      "L",
+      "us"
+    ],
+    [
+      "Lus",
+      "h"
+    ],
+    [
+      "ish",
+      "ed"
+    ],
+    [
+      "d",
+      "ens"
+    ],
+    [
+      "dens",
+      "ity"
+    ],
+    [
+      "st",
+      "re"
+    ],
+    [
+      "p",
+      "ar"
+    ],
+    [
+      "pro",
+      "gress"
+    ],
+    [
+      "progress",
+      "ing"
+    ],
+    [
+      "P",
+      "eti"
+    ],
+    [
+      "Peti",
+      "ole"
+    ],
+    [
+      "b",
+      "u"
+    ],
+    [
+      "p",
+      "se"
+    ],
+    [
+      "pse",
+      "ud"
+    ],
+    [
+      "pseud",
+      "o"
+    ],
+    [
+      "pseudo",
+      "stem"
+    ],
+    [
+      "as",
+      "c"
+    ],
+    [
+      "asc",
+      "ular"
+    ],
+    [
+      "dis",
+      "coloration"
+    ],
+    [
+      "B",
+      "road"
+    ],
+    [
+      "em",
+      "eral"
+    ],
+    [
+      "emeral",
+      "d"
+    ],
+    [
+      "wh",
+      "i"
+    ],
+    [
+      "whi",
+      "le"
+    ],
+    [
+      "m",
+      "ain"
+    ],
+    [
+      "o",
+      "o"
+    ],
+    [
+      "wh",
+      "en"
+    ],
+    [
+      "ri",
+      "pe"
+    ],
+    [
+      "er",
+      "v"
+    ],
+    [
+      "di",
+      "e"
+    ],
+    [
+      "b",
+      "ack"
+    ],
+    [
+      "bran",
+      "ch"
+    ],
+    [
+      "branch",
+      "ing"
+    ],
+    [
+      "co",
+      "al"
+    ],
+    [
+      "coal",
+      "es"
+    ],
+    [
+      "coales",
+      "ce"
+    ],
+    [
+      "com",
+      "mon"
+    ],
+    [
+      "O",
+      "val"
+    ],
+    [
+      "er",
+      "n"
+    ],
+    [
+      "1",
+      "5"
+    ],
+    [
+      "l",
+      "ong"
+    ],
+    [
+      "a",
+      "mp"
+    ],
+    [
+      "xy",
+      "l"
+    ],
+    [
+      "l",
+      "ed"
+    ],
+    [
+      "me",
+      "as"
+    ],
+    [
+      "meas",
+      "les"
+    ],
+    [
+      "in",
+      "ter"
+    ],
+    [
+      "ber",
+      "ry"
+    ],
+    [
+      "res",
+      "ult"
+    ],
+    [
+      "result",
+      "ing"
+    ],
+    [
+      "ac",
+      "c"
+    ],
+    [
+      "c",
+      "lean"
+    ],
+    [
+      "st",
+      "rip"
+    ],
+    [
+      "strip",
+      "es"
+    ],
+    [
+      "ad",
+      "s"
+    ],
+    [
+      "sc",
+      "at"
+    ],
+    [
+      "scat",
+      "te"
+    ],
+    [
+      "scatte",
+      "red"
+    ],
+    [
+      "um",
+      "es"
+    ],
+    [
+      "g",
+      "rain"
+    ],
+    [
+      "bl",
+      "ast"
+    ],
+    [
+      "ti",
+      "ll"
+    ],
+    [
+      "f",
+      "l"
+    ],
+    [
+      "fl",
+      "ag"
+    ],
+    [
+      "ad",
+      "e"
+    ],
+    [
+      "chlo",
+      "rotic"
+    ],
+    [
+      "of",
+      "f"
+    ],
+    [
+      "U",
+      "n"
+    ],
+    [
+      "nutrient_deficiency",
+      "_"
+    ],
+    [
+      "G",
+      "en"
+    ],
+    [
+      "Gen",
+      "eral"
+    ],
+    [
+      "mo",
+      "ving"
+    ],
+    [
+      "th",
+      "in"
+    ],
+    [
+      "p",
+      "ig"
+    ],
+    [
+      "pig",
+      "ment"
+    ],
+    [
+      "pigment",
+      "ation"
+    ],
+    [
+      "unders",
+      "ides"
+    ],
+    [
+      "d",
+      "el"
+    ],
+    [
+      "del",
+      "ay"
+    ],
+    [
+      "delay",
+      "ed"
+    ]
+  ]
+}
